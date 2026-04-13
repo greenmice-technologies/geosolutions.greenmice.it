@@ -1,23 +1,22 @@
-title: "Greenmice Technologies"
-description: "Greenmice Technologies - Building modern mobile and web applications."
-images: 
-  - "images/home/hero/bill-sitting.png"
+title: "Greenmice Geosolutions"
+description: "GIS engineering, spatial data platforms, and aeronautical systems."
 
-# logo: "images/shared/logo.png"
+logo: "images/brands/greenmice-geosolutions.svg"
+
+colors:
+  primary: "#1AA6A6"
+  secondary: "#263238"
+  background: "#FFFFFF"
 
 favicons:
   themeColor: "#FFFFFF"
   backgroundColor: "#FFFFFF"
-  faviconColor: "#5FC300"
+  faviconColor: "#1AA6A6"
 
 contact:
   - "info@greenmice.it"
 
 social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
-  twitter: "#"
+  linkedin: "https://www.linkedin.com/company/greenmice"
 
-copyright: "© 2024 Greenmice Technologies All Rights Reserved"
-
+copyright: "© Greenmice Geosolutions S.r.l."

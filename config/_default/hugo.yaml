@@ -1,8 +1,62 @@
-baseURL: "/"
-title: "Greenmice Technologies"
-summaryLength: 20
+baseURL: "https://geosolutions.greenmice.it/"
+title: "Greenmice Geosolutions"
+summaryLength: 35
 
-# services:
-#   googleAnalytics:
-#     id: G-MEASUREMENT_ID
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: English
+    languageCode: en
+    weight: 1
+    contentDir: content/en
+    params:
+      description: "GIS engineering, spatial data platforms, and aeronautical systems for infrastructure, energy, and aviation."
+  it:
+    languageName: Italiano
+    languageCode: it
+    weight: 2
+    contentDir: content/it
+    params:
+      description: "Ingegneria GIS, piattaforme dati spaziali e sistemi aeronautici per infrastrutture, energia e aviazione."
+  es:
+    languageName: Español
+    languageCode: es
+    weight: 3
+    contentDir: content/es
+    params:
+      description: "Ingeniería GIS, plataformas de datos espaciales y sistemas aeronáuticos para infraestructura, energía y aviación."
+  fr:
+    languageName: Français
+    languageCode: fr
+    weight: 4
+    contentDir: content/fr
+    params:
+      description: "Ingénierie GIS, plateformes de données spatiales et systèmes aéronautiques pour infrastructures, énergie et aviation."
+  de:
+    languageName: Deutsch
+    languageCode: de
+    weight: 5
+    contentDir: content/de
+    params:
+      description: "GIS-Engineering, räumliche Datenplattformen und aeronautische Systeme für Infrastruktur, Energie und Luftfahrt."
+  zh-cn:
+    languageName: 简体中文
+    languageCode: zh-cn
+    weight: 6
+    contentDir: content/zh-cn
+    params:
+      description: "面向基础设施、能源与航空的 GIS 工程、空间数据平台与航空系统。"
+  ja:
+    languageName: 日本語
+    languageCode: ja
+    weight: 7
+    contentDir: content/ja
+    params:
+      description: "インフラ、エネルギー、航空向けのGISエンジニアリング、空間データプラットフォーム、航空システム。"
