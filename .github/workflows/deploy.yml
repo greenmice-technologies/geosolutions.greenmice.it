@@ -46,6 +46,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "npm install"
+      # Use the live custom domain as baseURL so CSS/JS URLs match how the site is served.
+      # steps.pages.outputs.base_url often stays on *.github.io until Pages custom domain is fully applied.
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -53,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://greenmice.it/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
