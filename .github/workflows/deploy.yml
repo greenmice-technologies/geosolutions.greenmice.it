@@ -55,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://greenmice.it/"
+            --baseURL "https://geosolutions.greenmice.it/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
