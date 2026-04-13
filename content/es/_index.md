@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: Hogar
 translationKey: home
 menu:
   main:

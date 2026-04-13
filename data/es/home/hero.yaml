@@ -1,34 +1,28 @@
 enable: true
-
-title: "Spatial systems.<br/>Built for critical operations."
-
-text: "Greenmice Geosolutions engineers GIS platforms, spatial data services, and aeronautical tooling for organizations where accuracy, safety, and integration depth are non-negotiable."
-
+title: Sistemas espaciales.<br/>Construidos para operaciones críticas.
+text: Greenmice Geosolutions diseña plataformas GIS, servicios de datos espaciales
+  y herramientas aeronáuticas para organizaciones donde la precisión, la seguridad
+  y la profundidad de la integración no son negociables.
 buttons:
-  - label: "Capabilities"
-    link: "capabilities/"
-  - label: "Contact"
-    link: "contact/"
-
-image: "images/home/hero/hero-geo.svg"
-
+- label: Capacidades
+  link: capabilities/
+- label: Contacto
+  link: contact/
+image: images/home/hero/hero-geo.svg
 items:
-  - icon: "fas fa-map-location-dot"
-    color: "#1AA6A6"
-    title: "GIS engineering"
-    text: "Models, pipelines, and services aligned to real-world geometry."
-
-  - icon: "fas fa-plane-up"
-    color: "#1AA6A6"
-    title: "Aeronautical systems"
-    text: "Mission-critical workflows and interoperability constraints."
-
-  - icon: "fas fa-database"
-    color: "#1AA6A6"
-    title: "Spatial data platforms"
-    text: "From ingestion to analytics—with governance and performance."
-
-  - icon: "fas fa-handshake"
-    color: "#1AA6A6"
-    title: "Partnership depth"
-    text: "Long-running collaboration with IDS AirNav (ENAV group)."
+- icon: fas fa-map-location-dot
+  color: '#1AA6A6'
+  title: ingeniería SIG
+  text: Modelos, tuberías y servicios alineados con la geometría del mundo real.
+- icon: fas fa-plane-up
+  color: '#1AA6A6'
+  title: Sistemas aeronáuticos
+  text: Flujos de trabajo de misión crítica y limitaciones de interoperabilidad.
+- icon: fas fa-database
+  color: '#1AA6A6'
+  title: Plataformas de datos espaciales
+  text: De la ingestión al análisis, con gobernanza y rendimiento.
+- icon: fas fa-handshake
+  color: '#1AA6A6'
+  title: Profundidad de la asociación
+  text: Colaboración de larga data con IDS AirNav (grupo ENAV).

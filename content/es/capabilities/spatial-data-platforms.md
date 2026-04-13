@@ -1,18 +1,17 @@
 ---
-title: "Spatial data platforms"
-description: "Catalogs, APIs, analytics, and governance for spatial data at enterprise scale."
+title: Plataformas de datos espaciales
+description: Catálogos, API, análisis y gobernanza de datos espaciales a escala empresarial.
 translationKey: capabilities-platforms
 ---
+El análisis espacial solo importa si la plataforma subyacente es confiable: conjuntos de datos detectables, acceso controlado, canalizaciones reproducibles y rendimiento que se mantiene en condiciones de concurrencia real.
 
-Spatial analytics only matters if the underlying platform is trustworthy: discoverable datasets, controlled access, reproducible pipelines, and performance that holds under real concurrency.
+### Bloques de construcción de plataforma
 
-### Platform building blocks
+- Metadatos y patrones de catalogación que los equipos realmente adoptan.
+- API diseñadas tanto para uso interactivo como para procesamiento por lotes
+- Métricas de linaje y calidad que hacen que los datos espaciales sean auditables.
+- Observabilidad: análisis de costos, latencia y fallas como preocupaciones de primera clase.
 
-- Metadata and cataloging patterns that teams actually adopt
-- APIs designed for both interactive use and batch processing
-- Lineage and quality metrics that make spatial data auditable
-- Observability: cost, latency, and failure analysis as first-class concerns
+### Dónde esto crea valor
 
-### Where this creates value
-
-Energy networks, infrastructure operators, geo-marketing intelligence, and aviation-related organizations that must reconcile spatial truth across departments and partners.
+Redes de energía, operadores de infraestructura, inteligencia de geomarketing y organizaciones relacionadas con la aviación que deben conciliar la verdad espacial entre departamentos y socios.

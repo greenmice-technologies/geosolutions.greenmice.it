@@ -1,27 +1,28 @@
 enable: true
-
-title: "Domains we serve"
-
-text: "Energy networks, transport infrastructure, geo-marketing intelligence, and aviation systems—where spatial correctness and operational discipline intersect."
-
+title: Dominios que servimos
+text: Redes de energía, infraestructura de transporte, inteligencia de geomarketing
+  y sistemas de aviación, donde se cruzan la corrección espacial y la disciplina operativa.
 items:
-  - pretitle: "GIS"
-    pretext: "Engineering"
-    color: "#1AA6A6"
-    icon: "fas fa-draw-polygon"
-    title: "From data models to operational map services"
-    text: "We design and harden spatial architectures: reference systems, topology rules, service tiers, and release processes that survive audits and peak load—not just demos."
-
-  - pretitle: "Aviation"
-    pretext: "Aeronautical"
-    color: "#1AA6A6"
-    icon: "fas fa-tower-control"
-    title: "Aeronautical tooling aligned to real procedures"
-    text: "We build software that respects operational workflows, data contracts, and safety culture—especially where airspace and ground systems must stay in sync."
-
-  - pretitle: "Platforms"
-    pretext: "Spatial data"
-    color: "#1AA6A6"
-    icon: "fas fa-server"
-    title: "Spatial data platforms that scale"
-    text: "Pipelines, catalogs, APIs, and observability for teams that need trustworthy spatial analytics across business units and partners."
+- pretitle: SIG
+  pretext: Ingeniería
+  color: '#1AA6A6'
+  icon: fas fa-draw-polygon
+  title: De los modelos de datos a los servicios de mapas operativos
+  text: 'Diseñamos y fortalecemos arquitecturas espaciales: sistemas de referencia,
+    reglas de topología, niveles de servicio y procesos de lanzamiento que sobreviven
+    a auditorías y cargas máximas, no solo demostraciones.'
+- pretitle: Aviación
+  pretext: Aeronáutico
+  color: '#1AA6A6'
+  icon: fas fa-tower-control
+  title: Herramental aeronáutico alineado a procedimientos reales
+  text: Creamos software que respeta los flujos de trabajo operativos, los contratos
+    de datos y la cultura de seguridad, especialmente cuando el espacio aéreo y los
+    sistemas terrestres deben permanecer sincronizados.
+- pretitle: Plataformas
+  pretext: Datos espaciales
+  color: '#1AA6A6'
+  icon: fas fa-server
+  title: Plataformas de datos espaciales que escalan
+  text: Canalizaciones, catálogos, API y observabilidad para equipos que necesitan
+    análisis espaciales confiables en todas las unidades de negocios y socios.

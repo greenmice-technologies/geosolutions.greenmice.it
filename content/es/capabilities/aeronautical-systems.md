@@ -1,17 +1,17 @@
 ---
-title: "Aeronautical systems"
-description: "Software aligned to procedures, interoperability, and operational safety culture."
+title: Sistemas aeronáuticos
+description: Software alineado a procedimientos, interoperabilidad y cultura de seguridad
+  operativa.
 translationKey: capabilities-aero
 ---
+El software aeronáutico no es un "CRUD más rápido". Es un software de flujo de trabajo integrado en un entorno consciente de la seguridad con estrictas expectativas de interoperabilidad.
 
-Aeronautical software is not “faster CRUD.” It is workflow software embedded in a safety-conscious environment with strict interoperability expectations.
+### En qué nos centramos
 
-### What we focus on
+- Contratos de datos entre sistemas terrestres y relacionados con el espacio aéreo donde los desajustes son costosos
+- Flujos de trabajo operativos: traspasos, aprobaciones y trazabilidad.
+- Liberar una disciplina que respete las realidades de certificación y gestión de cambios.
 
-- Data contracts between ground and airspace-related systems where mismatches are costly
-- Operational workflows: handoffs, approvals, and traceability
-- Release discipline that respects certification and change-management realities
+### Cómo entregamos
 
-### How we deliver
-
-Small senior teams, explicit interfaces, and instrumentation that supports incident diagnosis without guesswork.
+Pequeños equipos de alto nivel, interfaces explícitas e instrumentación que respalda el diagnóstico de incidentes sin conjeturas.

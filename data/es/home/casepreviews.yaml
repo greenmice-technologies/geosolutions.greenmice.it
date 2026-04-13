@@ -1,20 +1,18 @@
 enable: true
-
-title: "Case studies"
-
-subtitle: "Partnership delivery with measurable engineering outcomes."
-
+title: Estudios de caso
+subtitle: Entrega de alianzas con resultados de ingeniería medibles.
 cta:
-  label: "View all"
-  link: "case-studies/"
-
+  label: Ver todo
+  link: case-studies/
 items:
-  - tag: "Aviation"
-    title: "IDS AirNav collaboration"
-    summary: "Engineering support and platform work alongside IDS AirNav within the ENAV ecosystem—focused on reliability, integration, and long-term maintainability."
-    link: "case-studies/ids-airnav/"
-
-  - tag: "Energy"
-    title: "Energy network spatial intelligence"
-    summary: "Spatial analytics and platform foundations for asset-heavy operators—designed for operational teams, not one-off dashboards."
-    link: "case-studies/energy/"
+- tag: Aviación
+  title: Colaboración IDS AirNav
+  summary: El soporte de ingeniería y la plataforma trabajan junto con IDS AirNav
+    dentro del ecosistema ENAV, enfocados en la confiabilidad, la integración y la
+    mantenibilidad a largo plazo.
+  link: case-studies/ids-airnav/
+- tag: Energía
+  title: Inteligencia espacial de la red energética
+  summary: Análisis espacial y bases de plataforma para operadores con muchos activos,
+    diseñados para equipos operativos, no para paneles de control únicos.
+  link: case-studies/energy/

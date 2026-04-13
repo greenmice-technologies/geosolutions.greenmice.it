@@ -1,9 +1,7 @@
 enable: true
-
-title: "Trusted by teams in regulated environments"
-
+title: Confiado por equipos en entornos regulados
 items:
-  - name: "IDS AirNav"
-  - name: "ENAV ecosystem"
-  - name: "Energy operators"
-  - name: "Infrastructure owners"
+- name: IDS AirNav
+- name: ENAV ecosystem
+- name: Energy operators
+- name: Infrastructure owners

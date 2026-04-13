@@ -1,24 +1,24 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
+title: Colaboración IDS AirNav
+description: 'Asociación de ingeniería en el ecosistema ENAV: confiabilidad, integración
+  y mantenibilidad.'
 translationKey: case-ids-airnav
 ---
+## Problema
 
-## Problem
+El software relacionado con la aviación debe integrarse a través de sistemas especializados y límites de proveedores. El desafío no es solo ofrecer funciones, sino también mantener los lanzamientos predecibles mientras evolucionan las limitaciones de interoperabilidad.
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+## Solución
 
-## Solution
+Trabajamos como socio de ingeniería junto con **IDS AirNav**, centrándonos en la disciplina de integración, la preparación operativa y la mantenibilidad a largo plazo dentro del contexto ENAV más amplio.
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+## Arquitectura
 
-## Architecture
+- Límites de servicio explícitos e interfaces estables entre sistemas cooperantes.
+- Estrategias de testing y validación alineadas al riesgo operacional.
+- Observabilidad y diagnóstico adecuados a los flujos de trabajo de soporte de producción.
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+## Impacto
 
-## Impact
-
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- Reducción de la fricción en los ciclos de entrega a través de contratos y propiedad más claros.
+- Mantenibilidad mejorada a medida que los sistemas evolucionan a través de versiones y cambios organizacionales.
