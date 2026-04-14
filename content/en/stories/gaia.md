@@ -1,6 +1,6 @@
 ---
 title: "Energy network spatial intelligence"
-description: "Spatial analytics and platform foundations for asset-heavy operators."
+description: "Spatial data platforms for analysis and optimization of energy networks."
 translationKey: case-energy
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Stories"
-description: "Engineering narratives with problem, solution, architecture, and impact."
+description: "Selected projects across GIS platforms, aeronautical systems, and spatial data applications."
 translationKey: stories
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: "Spatial data platforms"
-description: "Catalogs, APIs, analytics, and governance for spatial data at enterprise scale."
+description: "Design and implementation of platforms for managing, querying, and processing large geospatial datasets."
 translationKey: capabilities-platforms
 ---
 

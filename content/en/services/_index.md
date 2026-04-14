@@ -1,6 +1,6 @@
 ---
-title: "Services"
-description: "GIS engineering, aeronautical systems, and spatial data platforms-designed for production."
+title: "Capabilities"
+description: "GIS engineering, aeronautical systems, web mapping, and spatial data platforms — designed for production environments."
 translationKey: services
 menu:
   main:

@@ -318,7 +318,6 @@
       "architecture",
       "contact-details",
       "coordination",
-      "email",
       "featured-services",
       "featured-stories",
       "features",
@@ -340,6 +339,7 @@
       "single-hero",
       "solution",
       "what-we-build",
+      "what-we-deliver",
       "what-we-focus-on",
       "when-projects-span-both",
       "where-this-creates-value"

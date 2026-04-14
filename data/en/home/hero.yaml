@@ -1,8 +1,8 @@
 enable: true
 
-title: "Spatial systems.<br/>Built for critical operations."
+title: "Geospatial systems,<br/>engineered with precision."
 
-text: "Greenmice Geosolutions engineers GIS platforms, spatial data services, and aeronautical tooling for organizations where accuracy, safety, and integration depth are non-negotiable."
+text: "GIS, aeronautical systems, and spatial data platforms designed for production environments."
 
 buttons:
   - label: "Services"

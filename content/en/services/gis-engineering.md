@@ -1,6 +1,6 @@
 ---
 title: "GIS engineering"
-description: "Spatial models, services, and pipelines engineered for operational reality."
+description: "Development of GIS solutions across multiple domains, including energy, infrastructure, and geo-marketing."
 translationKey: capabilities-gis
 ---
 

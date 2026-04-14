@@ -23,7 +23,7 @@ languages:
     weight: 1
     contentDir: content/en
     params:
-      description: "GIS engineering, spatial data platforms, and aeronautical systems for infrastructure, energy, and aviation."
+      description: "GIS, aeronautical systems, and spatial data platforms designed for production environments."
   it:
     languageName: Italiano
     languageCode: it

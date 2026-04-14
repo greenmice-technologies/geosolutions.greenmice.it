@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Geospatial engineering with aviation-grade discipline—delivered as a dedicated company."
+description: "Geospatial engineering company focused on spatial systems and aeronautical data, delivered with aviation-grade discipline."
 translationKey: about
 menu:
   main:

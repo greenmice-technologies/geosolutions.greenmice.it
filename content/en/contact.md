@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Discuss GIS, spatial platforms, aviation-related systems, or coordinated delivery with Technologies."
+description: "Discuss GIS platforms, spatial systems, or aeronautical data engineering projects."
 translationKey: contact
 menu:
   main:

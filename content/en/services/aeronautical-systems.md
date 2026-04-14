@@ -1,6 +1,6 @@
 ---
 title: "Aeronautical systems"
-description: "Software aligned to procedures, interoperability, and operational safety culture."
+description: "Engineering of aviation-related systems, including aeronautical data processing and visualization."
 translationKey: capabilities-aero
 ---
 

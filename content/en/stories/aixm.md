@@ -1,24 +1,24 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
-translationKey: case-ids-airnav
+title: "AIXM visualizer"
+description: "Visualization and interaction tools for aeronautical data based on AIXM standards."
+translationKey: case-aixm-visualizer
 ---
 
 ## Problem
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+Aeronautical information is exchanged using structured standards such as **AIXM**. Teams need tooling that makes that data inspectable and navigable—without losing fidelity to the underlying model.
 
 ## Solution
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+We build visualization and interaction tools that align to AIXM semantics: clear rendering of features, relationships, and changes that matter in operational and engineering workflows.
 
 ## Architecture
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+- Parsing and mapping pipelines that respect AIXM data contracts
+- Interaction models suited to review, validation, and collaboration across stakeholders
+- Diagnostics and traceability where mismatches are costly
 
 ## Impact
 
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- Faster comprehension of complex aeronautical datasets
+- Reduced ambiguity between “what the data says” and “what operators see”

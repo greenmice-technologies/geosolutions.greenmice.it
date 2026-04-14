@@ -2,19 +2,29 @@ enable: true
 
 title: "Stories"
 
-subtitle: "Partnership delivery with measurable engineering outcomes."
+subtitle: "Selected projects across GIS platforms, aeronautical systems, and spatial data applications."
 
 cta:
   label: "All stories"
   link: "stories/"
 
 items:
-  - tag: "Aviation"
-    title: "IDS AirNav collaboration"
-    summary: "Engineering support and platform work alongside IDS AirNav within the ENAV ecosystem-focused on reliability, integration, and long-term maintainability."
+  - tag: "Infrastructure"
+    title: "Infrastructure spatial systems"
+    summary: "Development of spatial systems supporting infrastructure monitoring and planning."
     link: "stories/partnership/"
 
   - tag: "Energy"
     title: "Energy network spatial intelligence"
-    summary: "Spatial analytics and platform foundations for asset-heavy operators-designed for operational teams, not one-off dashboards."
+    summary: "Spatial data platforms for analysis and optimization of energy networks."
     link: "stories/gaia/"
+
+  - tag: "Aviation"
+    title: "AIXM visualizer"
+    summary: "Visualization and interaction tools for aeronautical data based on AIXM standards."
+    link: "stories/aixm/"
+
+  - tag: "Platforms"
+    title: "Gaia GIS platform"
+    summary: "Browser-based GIS platform for querying and visualizing geospatial data without backend dependencies."
+    link: "stories/gaia-gis-platform/"
