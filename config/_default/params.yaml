@@ -2,6 +2,7 @@ title: "Greenmice Geosolutions"
 description: "GIS engineering, spatial data platforms, and aeronautical systems."
 
 logo: "images/brands/svg/logo-brand.svg"
+logo_dark: "images/brands/svg/logo-whte.svg"
 
 colors:
   primary: "#1AA6A6"
