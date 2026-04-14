@@ -5,18 +5,18 @@ items:
 - pretitle: 地理信息系统
   pretext: 工程
   color: '#1AA6A6'
-  icon: fas fa-draw-polygon
+  icon: drafting-compass
   title: 从数据模型到运营地图服务
   text: 我们设计并强化空间架构：参考系统、拓扑规则、服务层以及能够经受审核和峰值负载的发布流程，而不仅仅是演示。
 - pretitle: 航空
   pretext: 航空
   color: '#1AA6A6'
-  icon: fas fa-tower-control
+  icon: radar
   title: 符合实际程序的航空工具
   text: 我们构建的软件尊重操作工作流程、数据合同和安全文化，尤其是在空域和地面系统必须保持同步的情况下。
 - pretitle: 平台
   pretext: 空间数据
   color: '#1AA6A6'
-  icon: fas fa-server
+  icon: server
   title: 可扩展的空间数据平台
   text: 为需要跨业务部门和合作伙伴进行可靠空间分析的团队提供管道、目录、API 和可观察性。

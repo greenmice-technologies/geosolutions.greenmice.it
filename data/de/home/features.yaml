@@ -6,7 +6,7 @@ items:
 - pretitle: GIS
   pretext: Maschinenbau
   color: '#1AA6A6'
-  icon: fas fa-draw-polygon
+  icon: drafting-compass
   title: Von Datenmodellen bis hin zu operativen Kartendiensten
   text: 'Wir entwerfen und härten räumliche Architekturen: Referenzsysteme, Topologieregeln,
     Serviceebenen und Releaseprozesse, die Audits und Spitzenlasten überstehen – nicht
@@ -14,7 +14,7 @@ items:
 - pretitle: Luftfahrt
   pretext: Luftfahrt
   color: '#1AA6A6'
-  icon: fas fa-tower-control
+  icon: radar
   title: Luftfahrtwerkzeuge, abgestimmt auf reale Verfahren
   text: Wir entwickeln Software, die betriebliche Arbeitsabläufe, Datenverträge und
     Sicherheitskultur respektiert – insbesondere dort, wo Luftraum- und Bodensysteme
@@ -22,7 +22,7 @@ items:
 - pretitle: Plattformen
   pretext: Geodaten
   color: '#1AA6A6'
-  icon: fas fa-server
+  icon: server
   title: Skalierbare Geodatenplattformen
   text: Pipelines, Kataloge, APIs und Observability für Teams, die vertrauenswürdige
     räumliche Analysen über Geschäftsbereiche und Partner hinweg benötigen.

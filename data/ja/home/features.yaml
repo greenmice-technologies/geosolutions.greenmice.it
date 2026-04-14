@@ -5,19 +5,19 @@ items:
 - pretitle: GIS
   pretext: エンジニアリング
   color: '#1AA6A6'
-  icon: fas fa-draw-polygon
+  icon: drafting-compass
   title: データモデルから運用マップサービスまで
   text: 私たちは空間アーキテクチャを設計して強化します。これには、リファレンス システム、トポロジ ルール、サービス層、およびデモだけでなく監査やピーク負荷にも耐えるリリース
     プロセスが含まれます。
 - pretitle: 航空
   pretext: 航空
   color: '#1AA6A6'
-  icon: fas fa-tower-control
+  icon: radar
   title: 実際の手順に合わせた航空ツール
   text: 当社は、運用ワークフロー、データ契約、安全文化を尊重するソフトウェアを構築します。特に空域と地上システムの同期を維持する必要がある場合に重要です。
 - pretitle: プラットフォーム
   pretext: 空間データ
   color: '#1AA6A6'
-  icon: fas fa-server
+  icon: server
   title: 拡張可能な空間データ プラットフォーム
   text: ビジネスユニットやパートナー全体にわたる信頼できる空間分析を必要とするチーム向けのパイプライン、カタログ、API、可観測性。

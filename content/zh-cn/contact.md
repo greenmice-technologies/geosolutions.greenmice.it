@@ -1,7 +1,6 @@
 ---
-title: 接触
-description: Discuss GIS, spatial platforms, aviation-related systems, or coordinated
-  delivery with Technologies.
+title: "Contact"
+description: "Discuss GIS, spatial platforms, aviation-related systems, or coordinated delivery with Technologies."
 translationKey: contact
 menu:
   main:

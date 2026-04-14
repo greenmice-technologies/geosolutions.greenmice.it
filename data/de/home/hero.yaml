@@ -10,20 +10,20 @@ buttons:
   link: contact/
 image: images/home/hero/hero.svg
 items:
-- icon: fas fa-map-location-dot
+- icon: map-pinned
   color: '#1AA6A6'
   title: GIS-Engineering
   text: Modelle, Pipelines und Dienste, die an der Geometrie der realen Welt ausgerichtet
     sind.
-- icon: fas fa-plane-up
+- icon: plane-takeoff
   color: '#1AA6A6'
   title: Luftfahrtsysteme
   text: Geschäftskritische Arbeitsabläufe und Interoperabilitätsbeschränkungen.
-- icon: fas fa-database
+- icon: database
   color: '#1AA6A6'
   title: Geodatenplattformen
   text: Von der Aufnahme bis zur Analyse – mit Governance und Leistung.
-- icon: fas fa-handshake
+- icon: handshake
   color: '#1AA6A6'
   title: Tiefe der Partnerschaft
   text: Langjährige Zusammenarbeit mit IDS AirNav (ENAV-Gruppe).

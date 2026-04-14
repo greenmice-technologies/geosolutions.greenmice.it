@@ -1,7 +1,6 @@
 ---
-title: Technologien
-description: Wie sich Greenmice Geosolutions und Greenmice Technologies verhalten
-  – und wann man die einzelnen Unternehmen engagieren sollte.
+title: "Technologies"
+description: "How Greenmice Geosolutions relates to Greenmice Technologies—and when to engage each company."
 translationKey: technologies-bridge
 menu:
   main:

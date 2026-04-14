@@ -1,7 +1,6 @@
 ---
-title: Contacto
-description: Analice los SIG, las plataformas espaciales, los sistemas relacionados
-  con la aviación o la entrega coordinada con tecnologías.
+title: "Contact"
+description: "Discuss GIS, spatial platforms, aviation-related systems, or coordinated delivery with Technologies."
 translationKey: contact
 menu:
   main:

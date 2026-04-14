@@ -13,22 +13,22 @@ buttons:
 image: "images/home/hero/hero.svg"
 
 items:
-  - icon: "fas fa-map-location-dot"
+  - icon: "map-pinned"
     color: "#1AA6A6"
     title: "GIS engineering"
     text: "Models, pipelines, and services aligned to real-world geometry."
 
-  - icon: "fas fa-plane-up"
+  - icon: "plane-takeoff"
     color: "#1AA6A6"
     title: "Aeronautical systems"
     text: "Mission-critical workflows and interoperability constraints."
 
-  - icon: "fas fa-database"
+  - icon: "database"
     color: "#1AA6A6"
     title: "Spatial data platforms"
     text: "From ingestion to analytics—with governance and performance."
 
-  - icon: "fas fa-handshake"
+  - icon: "handshake"
     color: "#1AA6A6"
     title: "Partnership depth"
     text: "Long-running collaboration with IDS AirNav (ENAV group)."

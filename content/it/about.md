@@ -1,7 +1,6 @@
 ---
-title: Di
-description: Ingegneria geospaziale con disciplina di livello aeronautico, offerta
-  come azienda dedicata.
+title: "About"
+description: "Geospatial engineering with aviation-grade discipline—delivered as a dedicated company."
 translationKey: about
 menu:
   main:
@@ -11,10 +10,11 @@ menu:
     identifier: about
     weight: 20
 ---
-Greenmice Geosolutions è la società del gruppo Greenmice specializzata in **ingegneria GIS**, **piattaforme di dati spaziali** e **sistemi aeronautici**. Realizziamo software in cui la correttezza spaziale, l'interoperabilità e l'affidabilità operativa non sono negoziabili.
 
-Manteniamo una collaborazione di lunga data con **IDS AirNav** nell'ecosistema **ENAV**, un lavoro che rafforza la nostra attenzione alla disciplina dell'integrazione, alla manutenzione del ciclo di vita e alla consegna attenta alla sicurezza.
+Greenmice Geosolutions is the Greenmice Group company focused on **GIS engineering**, **spatial data platforms**, and **aeronautical systems**. We build software where spatial correctness, interoperability, and operational reliability are not negotiable.
 
-### Rapporto con Greenmice Technologies
+We maintain a long-running collaboration with **IDS AirNav** in the **ENAV** ecosystem—work that reinforces our focus on integration discipline, lifecycle maintenance, and safety-conscious delivery.
 
-**Greenmice Technologies** offre un'ingegneria aziendale più ampia: sistemi di intelligenza artificiale, modernizzazione, prodotti mobili e leadership CTO. Quando i programmi abbracciano sistemi spaziali e software aziendale di base, le due società si coordinano, senza mescolare la proprietà o la responsabilità della consegna.
+### Relationship to Greenmice Technologies
+
+**Greenmice Technologies** delivers broader enterprise engineering: AI systems, modernization, mobile products, and CTO leadership. When programs span spatial systems and core enterprise software, the two companies coordinate—without mixing ownership or delivery accountability.

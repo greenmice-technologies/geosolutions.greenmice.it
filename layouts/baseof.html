@@ -94,22 +94,7 @@
       {{ end }}
     {{ end }}
 
-    {{ with resources.Get "vendor/fontawesome-free/css/all.min.css" }}
-      {{ with . | fingerprint }}
-        <link
-          rel="stylesheet"
-          href="{{ .RelPermalink }}"
-          integrity="{{ .Data.Integrity }}"
-          crossorigin="anonymous"
-        />
-      {{ end }}
-    {{ end }}
-
-    {{ with resources.Match "vendor/fontawesome-free/webfonts/*" }}
-      {{ range . }}
-        {{ .Publish }}
-      {{ end }}
-    {{ end }}
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
 
     {{- $main := resources.Get "js/main.js" -}}
     {{ with $main }}
@@ -119,6 +104,11 @@
       {{ end }}
       <script src="{{ $main.RelPermalink }}" defer></script>
     {{ end }}
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        if (window.lucide) window.lucide.createIcons();
+      });
+    </script>
   </head>
   <body class="antialiased">
     <div class="flex min-h-screen flex-col">

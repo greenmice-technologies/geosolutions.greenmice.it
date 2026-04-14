@@ -7,7 +7,7 @@ items:
 - pretitle: SIG
   pretext: Ingénierie
   color: '#1AA6A6'
-  icon: fas fa-draw-polygon
+  icon: drafting-compass
   title: Des modèles de données aux services de cartographie opérationnels
   text: 'Nous concevons et renforçons des architectures spatiales : systèmes de référence,
     règles de topologie, niveaux de service et processus de publication qui survivent
@@ -15,7 +15,7 @@ items:
 - pretitle: Aviation
   pretext: Aéronautique
   color: '#1AA6A6'
-  icon: fas fa-tower-control
+  icon: radar
   title: Un outillage aéronautique aligné sur les procédures réelles
   text: Nous construisons des logiciels qui respectent les flux de travail opérationnels,
     les contrats de données et la culture de sécurité, en particulier là où l'espace
@@ -23,7 +23,7 @@ items:
 - pretitle: Plateformes
   pretext: Données spatiales
   color: '#1AA6A6'
-  icon: fas fa-server
+  icon: server
   title: Plateformes de données spatiales évolutives
   text: Pipelines, catalogues, API et observabilité pour les équipes qui ont besoin
     d'analyses spatiales fiables entre les unités commerciales et les partenaires.

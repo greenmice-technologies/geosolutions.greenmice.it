@@ -8,19 +8,19 @@ buttons:
   link: contact/
 image: images/home/hero/hero.svg
 items:
-- icon: fas fa-map-location-dot
+- icon: map-pinned
   color: '#1AA6A6'
   title: GISエンジニアリング
   text: 現実世界のジオメトリに合わせたモデル、パイプライン、サービス。
-- icon: fas fa-plane-up
+- icon: plane-takeoff
   color: '#1AA6A6'
   title: 航空システム
   text: ミッションクリティカルなワークフローと相互運用性の制約。
-- icon: fas fa-database
+- icon: database
   color: '#1AA6A6'
   title: 空間データプラットフォーム
   text: 取り込みから分析まで、ガバナンスとパフォーマンスを備えています。
-- icon: fas fa-handshake
+- icon: handshake
   color: '#1AA6A6'
   title: パートナーシップの深さ
   text: IDS AirNav (ENAV グループ) との長期にわたるコラボレーション。

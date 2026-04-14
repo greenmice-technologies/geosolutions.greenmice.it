@@ -1,7 +1,6 @@
 ---
-title: Contact
-description: Discuti GIS, piattaforme spaziali, sistemi legati all'aviazione o consegna
-  coordinata con le tecnologie.
+title: "Contact"
+description: "Discuss GIS, spatial platforms, aviation-related systems, or coordinated delivery with Technologies."
 translationKey: contact
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
-title: テクノロジー
-description: Greenmice Geosolutions と Greenmice Technologies の関係、および各企業との連携時期。
+title: "Technologies"
+description: "How Greenmice Geosolutions relates to Greenmice Technologies—and when to engage each company."
 translationKey: technologies-bridge
 menu:
   main:

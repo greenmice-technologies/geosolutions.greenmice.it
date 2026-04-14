@@ -1,6 +1,6 @@
 ---
-title: 技术
-description: Greenmice Geosolutions 与 Greenmice Technologies 的关系如何——以及何时与每家公司合作。
+title: "Technologies"
+description: "How Greenmice Geosolutions relates to Greenmice Technologies—and when to engage each company."
 translationKey: technologies-bridge
 menu:
   main:

@@ -8,19 +8,19 @@ buttons:
   link: contact/
 image: images/home/hero/hero.svg
 items:
-- icon: fas fa-map-location-dot
+- icon: map-pinned
   color: '#1AA6A6'
   title: 地理信息系统工程
   text: 模型、管道和服务与现实世界的几何形状保持一致。
-- icon: fas fa-plane-up
+- icon: plane-takeoff
   color: '#1AA6A6'
   title: 航空系统
   text: 任务关键型工作流程和互操作性限制。
-- icon: fas fa-database
+- icon: database
   color: '#1AA6A6'
   title: 空间数据平台
   text: 从摄取到分析——包括治理和性能。
-- icon: fas fa-handshake
+- icon: handshake
   color: '#1AA6A6'
   title: 合作深度
   text: 与 IDS AirNav（ENAV 集团）的长期合作。

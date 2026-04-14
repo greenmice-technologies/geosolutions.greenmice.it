@@ -10,19 +10,19 @@ buttons:
   link: contact/
 image: images/home/hero/hero.svg
 items:
-- icon: fas fa-map-location-dot
+- icon: map-pinned
   color: '#1AA6A6'
   title: ingeniería SIG
   text: Modelos, tuberías y servicios alineados con la geometría del mundo real.
-- icon: fas fa-plane-up
+- icon: plane-takeoff
   color: '#1AA6A6'
   title: Sistemas aeronáuticos
   text: Flujos de trabajo de misión crítica y limitaciones de interoperabilidad.
-- icon: fas fa-database
+- icon: database
   color: '#1AA6A6'
   title: Plataformas de datos espaciales
   text: De la ingestión al análisis, con gobernanza y rendimiento.
-- icon: fas fa-handshake
+- icon: handshake
   color: '#1AA6A6'
   title: Profundidad de la asociación
   text: Colaboración de larga data con IDS AirNav (grupo ENAV).
