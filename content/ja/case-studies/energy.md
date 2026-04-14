@@ -1,23 +1,22 @@
 ---
-title: "Energy network spatial intelligence"
-description: "Spatial analytics and platform foundations for asset-heavy operators."
+title: エネルギーネットワークの空間インテリジェンス
+description: 資産を大量に使用する事業者向けの空間分析とプラットフォーム基盤。
 translationKey: case-energy
 ---
+## 問題
 
-## Problem
+エネルギー事業者は、地理的に分散した大規模な資産を管理します。意思決定は、多くの場合、厳しい運用ウィンドウの下で、調査、運用システム、分析全体にわたる空間的真実を調整するかどうかによって決まります。
 
-Energy operators manage large, geographically distributed assets. Decisions depend on reconciling spatial truth across surveys, operational systems, and analytics—often under tight operational windows.
+## 解決策
 
-## Solution
+私たちは、チームが信頼できる空間インテリジェンスの基盤、つまり、一貫したジオメトリ、管理されたデータセット、および 1 回限りのダッシュボードではなく、運用ワークフローに合わせたサービスを構築します。
 
-We build spatial intelligence foundations that teams can trust: consistent geometry, governed datasets, and services aligned to operational workflows—not one-off dashboards.
+## アーキテクチャ
 
-## Architecture
+- 検証および調整ステップを備えた空間パイプライン
+- インタラクティブな操作とバッチ分析の両方をサポートする API
+- データセットを検出可能および監査可能にするガバナンス パターン
 
-- Spatial pipelines with validation and reconciliation steps
-- APIs that support both interactive operations and batch analytics
-- Governance patterns that make datasets discoverable and auditable
+## 影響
 
-## Impact
-
-Faster, more confident operational decisions; fewer mismatches between “map” and “reality” across departments.
+運用上の意思決定をより迅速かつ確実に行うことができます。部門間での「地図」と「現実」の不一致が少なくなります。

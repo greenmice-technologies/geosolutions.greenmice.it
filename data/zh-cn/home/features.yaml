@@ -1,27 +1,22 @@
 enable: true
-
-title: "Domains we serve"
-
-text: "Energy networks, transport infrastructure, geo-marketing intelligence, and aviation systems—where spatial correctness and operational discipline intersect."
-
+title: 我们服务的域名
+text: 能源网络、交通基础设施、地理营销情报和航空系统——空间正确性和操作规则交叉的地方。
 items:
-  - pretitle: "GIS"
-    pretext: "Engineering"
-    color: "#1AA6A6"
-    icon: "fas fa-draw-polygon"
-    title: "From data models to operational map services"
-    text: "We design and harden spatial architectures: reference systems, topology rules, service tiers, and release processes that survive audits and peak load—not just demos."
-
-  - pretitle: "Aviation"
-    pretext: "Aeronautical"
-    color: "#1AA6A6"
-    icon: "fas fa-tower-control"
-    title: "Aeronautical tooling aligned to real procedures"
-    text: "We build software that respects operational workflows, data contracts, and safety culture—especially where airspace and ground systems must stay in sync."
-
-  - pretitle: "Platforms"
-    pretext: "Spatial data"
-    color: "#1AA6A6"
-    icon: "fas fa-server"
-    title: "Spatial data platforms that scale"
-    text: "Pipelines, catalogs, APIs, and observability for teams that need trustworthy spatial analytics across business units and partners."
+- pretitle: 地理信息系统
+  pretext: 工程
+  color: '#1AA6A6'
+  icon: fas fa-draw-polygon
+  title: 从数据模型到运营地图服务
+  text: 我们设计并强化空间架构：参考系统、拓扑规则、服务层以及能够经受审核和峰值负载的发布流程，而不仅仅是演示。
+- pretitle: 航空
+  pretext: 航空
+  color: '#1AA6A6'
+  icon: fas fa-tower-control
+  title: 符合实际程序的航空工具
+  text: 我们构建的软件尊重操作工作流程、数据合同和安全文化，尤其是在空域和地面系统必须保持同步的情况下。
+- pretitle: 平台
+  pretext: 空间数据
+  color: '#1AA6A6'
+  icon: fas fa-server
+  title: 可扩展的空间数据平台
+  text: 为需要跨业务部门和合作伙伴进行可靠空间分析的团队提供管道、目录、API 和可观察性。

@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: Heim
 translationKey: home
 menu:
   main:

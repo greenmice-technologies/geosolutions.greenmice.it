@@ -1,23 +1,22 @@
 ---
-title: "Infrastructure spatial systems"
-description: "Traceable spatial workflows for large infrastructure portfolios."
+title: 基础设施空间系统
+description: 大型基础设施组合的可追踪空间工作流程。
 translationKey: case-infrastructure
 ---
+## 问题
 
-## Problem
+基础设施所有者需要能够在组织更替后生存的空间系统：数据必须在调查、设计变更、施工更新和运营中保持可追溯性。
 
-Infrastructure owners need spatial systems that survive organizational turnover: data must remain traceable across surveys, design changes, construction updates, and operations.
+## 解决方案
 
-## Solution
+我们实现具有明确沿袭的空间工作流程：发生了什么变化、为什么发生变化以及它如何传播到依赖系统。
 
-We implement spatial workflows with explicit lineage: what changed, why it changed, and how it propagates to dependent systems.
+## 架构
 
-## Architecture
+- 空间资产的稳定标识符和版本控制模式
+- 集成层可减少现场工具、工程系统和企业 IT 之间的耦合
+- 全国数据集和并发用户的性能规划
 
-- Stable identifiers and versioning patterns for spatial assets
-- Integration layers that reduce coupling between field tools, engineering systems, and corporate IT
-- Performance planning for nationwide datasets and concurrent users
+## 影响
 
-## Impact
-
-Lower operational risk, fewer reconciliation crises, and a platform posture that supports long-term maintenance.
+降低运营风险、减少协调危机以及支持长期维护的平台状态。

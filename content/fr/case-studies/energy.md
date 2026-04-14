@@ -1,23 +1,23 @@
 ---
-title: "Energy network spatial intelligence"
-description: "Spatial analytics and platform foundations for asset-heavy operators."
+title: Intelligence spatiale des réseaux énergétiques
+description: Analyse spatiale et fondations de plateforme pour les opérateurs disposant
+  de nombreux actifs.
 translationKey: case-energy
 ---
+## Problème
 
-## Problem
+Les opérateurs énergétiques gèrent de vastes actifs géographiquement répartis. Les décisions dépendent de la réconciliation de la vérité spatiale entre les enquêtes, les systèmes opérationnels et les analyses, souvent dans des délais opérationnels serrés.
 
-Energy operators manage large, geographically distributed assets. Decisions depend on reconciling spatial truth across surveys, operational systems, and analytics—often under tight operational windows.
+##Solution
 
-## Solution
+Nous construisons des bases d'intelligence spatiale auxquelles les équipes peuvent avoir confiance : une géométrie cohérente, des ensembles de données gouvernés et des services alignés sur les flux de travail opérationnels, et non sur des tableaux de bord ponctuels.
 
-We build spatial intelligence foundations that teams can trust: consistent geometry, governed datasets, and services aligned to operational workflows—not one-off dashboards.
+##Architecture
 
-## Architecture
+- Pipelines spatiaux avec étapes de validation et de réconciliation
+- API prenant en charge à la fois les opérations interactives et l'analyse par lots
+- Modèles de gouvernance qui rendent les ensembles de données détectables et vérifiables
 
-- Spatial pipelines with validation and reconciliation steps
-- APIs that support both interactive operations and batch analytics
-- Governance patterns that make datasets discoverable and auditable
+##Impact
 
-## Impact
-
-Faster, more confident operational decisions; fewer mismatches between “map” and “reality” across departments.
+Des décisions opérationnelles plus rapides et plus sûres ; moins d’inadéquations entre la « carte » et la « réalité » entre les départements.

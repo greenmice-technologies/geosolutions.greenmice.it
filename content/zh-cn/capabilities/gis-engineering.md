@@ -1,17 +1,16 @@
 ---
-title: "GIS engineering"
-description: "Spatial models, services, and pipelines engineered for operational reality."
+title: 地理信息系统工程
+description: Spatial models, services, and pipelines engineered for operational reality.
 translationKey: capabilities-gis
 ---
+当地图被视为绘图而不是**数据产品**时，GIS 程序就会失败。我们设计的空间系统具有明确的拓扑规则、服务层和发布流程，能够经受审计和高峰使用。
 
-GIS programs fail when maps are treated as drawings instead of **data products**. We engineer spatial systems with explicit topology rules, service tiers, and release processes that survive audits and peak usage.
+### 我们构建什么
 
-### What we build
+- 空间数据模型与操作工作流程保持一致——不仅仅是制图
+- 具有基于使用模式的性能预算和缓存策略的地图服务
+- ETL 和验证管道，具有更正和沿袭的可追溯性
 
-- Spatial data models aligned to operational workflows—not only cartography
-- Map services with performance budgets and caching strategies grounded in usage patterns
-- ETL and validation pipelines with traceability for corrections and lineage
+### 结果
 
-### Outcomes
-
-Teams can iterate safely: changes are testable, observable, and reversible.
+团队可以安全地进行迭代：更改是可测试、可观察和可逆的。

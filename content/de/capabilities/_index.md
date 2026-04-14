@@ -1,6 +1,7 @@
 ---
-title: "Capabilities"
-description: "GIS engineering, aeronautical systems, and spatial data platforms—designed for production."
+title: Fähigkeiten
+description: GIS-Technik, Luftfahrtsysteme und Geodatenplattformen – konzipiert für
+  die Produktion.
 translationKey: capabilities
 menu:
   main:
@@ -10,5 +11,4 @@ menu:
     identifier: capabilities
     weight: 30
 ---
-
-Pick a capability area to see how we structure engineering work, typical integration constraints, and the outcomes we optimize for.
+Wählen Sie einen Fähigkeitsbereich aus, um zu sehen, wie wir die technische Arbeit strukturieren, typische Integrationsbeschränkungen und die Ergebnisse, für die wir optimieren.

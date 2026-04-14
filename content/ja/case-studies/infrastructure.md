@@ -1,23 +1,22 @@
 ---
-title: "Infrastructure spatial systems"
-description: "Traceable spatial workflows for large infrastructure portfolios."
+title: インフラ空間システム
+description: 大規模なインフラストラクチャ ポートフォリオ向けの追跡可能な空間ワークフロー。
 translationKey: case-infrastructure
 ---
+## 問題
 
-## Problem
+インフラストラクチャ所有者は、組織の異動が発生しても存続する空間システムを必要としています。データは、調査、設計変更、建設更新、運用全体にわたって追跡可能でなければなりません。
 
-Infrastructure owners need spatial systems that survive organizational turnover: data must remain traceable across surveys, design changes, construction updates, and operations.
+## 解決策
 
-## Solution
+私たちは、何が変更されたのか、なぜ変更されたのか、依存システムにどのように伝播するのかなど、明示的な系統を使用して空間ワークフローを実装します。
 
-We implement spatial workflows with explicit lineage: what changed, why it changed, and how it propagates to dependent systems.
+## アーキテクチャ
 
-## Architecture
+- 空間資産の安定した識別子とバージョン管理パターン
+- フィールドツール、エンジニアリングシステム、企業IT間の結合を軽減する統合レイヤー
+- 全国的なデータセットと同時ユーザーのパフォーマンス計画
 
-- Stable identifiers and versioning patterns for spatial assets
-- Integration layers that reduce coupling between field tools, engineering systems, and corporate IT
-- Performance planning for nationwide datasets and concurrent users
+## 影響
 
-## Impact
-
-Lower operational risk, fewer reconciliation crises, and a platform posture that supports long-term maintenance.
+運用リスクが低くなり、調整の危機が減り、長期的なメンテナンスをサポートするプラットフォームの姿勢が実現します。

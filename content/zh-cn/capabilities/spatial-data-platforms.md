@@ -1,6 +1,6 @@
 ---
-title: "Spatial data platforms"
-description: "Catalogs, APIs, analytics, and governance for spatial data at enterprise scale."
+title: 空间数据平台
+description: 企业级空间数据的目录、API、分析和治理。
 translationKey: capabilities-platforms
 ---
 

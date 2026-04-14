@@ -1,17 +1,16 @@
 ---
-title: "GIS engineering"
-description: "Spatial models, services, and pipelines engineered for operational reality."
+title: GISエンジニアリング
+description: 現実の運用に合わせて設計された空間モデル、サービス、パイプライン。
 translationKey: capabilities-gis
 ---
+マップが **データ製品** ではなく図面として扱われる場合、GIS プログラムは失敗します。当社は、明示的なトポロジ ルール、サービス層、および監査やピーク使用量に耐えるリリース プロセスを使用して空間システムを設計します。
 
-GIS programs fail when maps are treated as drawings instead of **data products**. We engineer spatial systems with explicit topology rules, service tiers, and release processes that survive audits and peak usage.
+### 私たちが構築するもの
 
-### What we build
+- 地図作成だけでなく、運用ワークフローに合わせた空間データ モデル
+- 使用パターンに基づいたパフォーマンス バジェットとキャッシュ戦略を備えたマップ サービス
+- 修正とリネージのトレーサビリティを備えた ETL および検証パイプライン
 
-- Spatial data models aligned to operational workflows—not only cartography
-- Map services with performance budgets and caching strategies grounded in usage patterns
-- ETL and validation pipelines with traceability for corrections and lineage
+### 結果
 
-### Outcomes
-
-Teams can iterate safely: changes are testable, observable, and reversible.
+チームは安全に反復できます。変更はテスト可能、観察可能、元に戻すことができます。

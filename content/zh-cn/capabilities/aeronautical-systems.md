@@ -1,17 +1,16 @@
 ---
-title: "Aeronautical systems"
-description: "Software aligned to procedures, interoperability, and operational safety culture."
+title: 航空系统
+description: 软件符合程序、互操作性和操作安全文化。
 translationKey: capabilities-aero
 ---
+航空软件并不是“更快的 CRUD”。它是嵌入安全意识环境中的工作流程软件，具有严格的互操作性期望。
 
-Aeronautical software is not “faster CRUD.” It is workflow software embedded in a safety-conscious environment with strict interoperability expectations.
+### 我们关注什么
 
-### What we focus on
+- 地面和空域相关系统之间的数据合同，如果不匹配，代价高昂
+- 操作工作流程：移交、批准和可追溯性
+- 发布尊重认证和变更管理现实的纪律
 
-- Data contracts between ground and airspace-related systems where mismatches are costly
-- Operational workflows: handoffs, approvals, and traceability
-- Release discipline that respects certification and change-management realities
+### 我们如何交付
 
-### How we deliver
-
-Small senior teams, explicit interfaces, and instrumentation that supports incident diagnosis without guesswork.
+小型高级团队、明确的界面和支持事件诊断而无需猜测的仪器。

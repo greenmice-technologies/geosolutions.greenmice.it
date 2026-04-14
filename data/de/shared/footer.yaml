@@ -1,15 +1,12 @@
 enable: true
-
 contact:
-  title: "Contact"
+  title: Kontakt
   items:
-    - label: "info@greenmice.it"
-      link: "mailto:info@greenmice.it"
-
+  - label: info@greenmice.it
+    link: mailto:info@greenmice.it
 social:
-  - title: "LinkedIn"
-    icon: "fa-brands fa-linkedin"
-    link: "https://www.linkedin.com/company/greenmice"
-    label: ""
-
-copyright: "© Greenmice Geosolutions S.r.l. All rights reserved."
+- title: LinkedIn
+  icon: fa-brands fa-linkedin
+  link: https://www.linkedin.com/company/greenmice
+  label: ''
+copyright: © Greenmice Geosolutions S.r.l. Alle Rechte vorbehalten.

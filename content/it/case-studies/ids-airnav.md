@@ -1,24 +1,24 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
+title: Collaborazione IDS AirNav
+description: 'Partnership ingegneristica nell''ecosistema ENAV: affidabilità, integrazione
+  e manutenibilità.'
 translationKey: case-ids-airnav
 ---
+## Problema
 
-## Problem
+Il software relativo all'aviazione deve integrarsi oltre i sistemi specializzati e i confini dei fornitori. La sfida non è solo quella di fornire funzionalità, ma anche di mantenere prevedibili i rilasci mentre i vincoli di interoperabilità si evolvono.
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+## Soluzione
 
-## Solution
+Lavoriamo come partner tecnico al fianco di **IDS AirNav**, concentrandoci sulla disciplina dell'integrazione, sulla prontezza operativa e sulla manutenibilità a lungo termine nel più ampio contesto ENAV.
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+## Architettura
 
-## Architecture
+- Confini di servizio espliciti e interfacce stabili tra sistemi cooperanti
+- Strategie di test e validazione allineate al rischio operativo
+- Osservabilità e diagnostica adatte ai flussi di lavoro di supporto alla produzione
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+## Impatto
 
-## Impact
-
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- Riduzione degli attriti nei cicli di consegna attraverso contratti e proprietà più chiari
+- Migliore manutenibilità man mano che i sistemi si evolvono attraverso i rilasci e i cambiamenti organizzativi

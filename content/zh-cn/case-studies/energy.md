@@ -1,23 +1,22 @@
 ---
-title: "Energy network spatial intelligence"
-description: "Spatial analytics and platform foundations for asset-heavy operators."
+title: 能源网络空间智能
+description: 适合重资产运营商的空间分析和平台基础。
 translationKey: case-energy
 ---
+## 问题
 
-## Problem
+能源运营商管理着分布在不同地区的大型资产。决策取决于协调调查、操作系统和分析之间的空间真实情况——通常是在严格的操作窗口下。
 
-Energy operators manage large, geographically distributed assets. Decisions depend on reconciling spatial truth across surveys, operational systems, and analytics—often under tight operational windows.
+## 解决方案
 
-## Solution
+我们构建了团队可以信任的空间智能基础：一致的几何图形、受管控的数据集以及与操作工作流程一致的服务，而不是一次性的仪表板。
 
-We build spatial intelligence foundations that teams can trust: consistent geometry, governed datasets, and services aligned to operational workflows—not one-off dashboards.
+## 架构
 
-## Architecture
+- 具有验证和协调步骤的空间管道
+- 支持交互式操作和批量分析的API
+- 使数据集可发现和可审计的治理模式
 
-- Spatial pipelines with validation and reconciliation steps
-- APIs that support both interactive operations and batch analytics
-- Governance patterns that make datasets discoverable and auditable
+## 影响
 
-## Impact
-
-Faster, more confident operational decisions; fewer mismatches between “map” and “reality” across departments.
+更快、更自信的运营决策；部门之间的“地图”和“现实”之间的不匹配更少。

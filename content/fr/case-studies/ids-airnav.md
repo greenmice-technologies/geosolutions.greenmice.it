@@ -1,24 +1,24 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
+title: Collaboration IDS-AirNav
+description: 'Partenariat d’ingénierie dans l’écosystème ENAV : fiabilité, intégration
+  et maintenabilité.'
 translationKey: case-ids-airnav
 ---
+## Problème
 
-## Problem
+Les logiciels liés à l'aviation doivent s'intégrer au-delà des systèmes spécialisés et des frontières des fournisseurs. Le défi n'est pas seulement de livrer des fonctionnalités, mais aussi de maintenir les versions prévisibles alors que les contraintes d'interopérabilité évoluent.
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+##Solution
 
-## Solution
+Nous travaillons en tant que partenaire d'ingénierie aux côtés de **IDS AirNav**, en nous concentrant sur la discipline d'intégration, la préparation opérationnelle et la maintenabilité à long terme dans le contexte ENAV plus large.
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+##Architecture
 
-## Architecture
+- Limites de service explicites et interfaces stables entre les systèmes coopérants
+- Stratégies de tests et de validation alignées sur le risque opérationnel
+- Observabilité et diagnostics adaptés aux workflows d'assistance à la production
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+##Impact
 
-## Impact
-
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- Réduction des frictions dans les cycles de livraison grâce à des contrats et une propriété plus clairs
+- Maintenabilité améliorée à mesure que les systèmes évoluent au fil des versions et des changements organisationnels

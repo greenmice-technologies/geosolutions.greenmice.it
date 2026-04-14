@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-description: "Discuss GIS, spatial platforms, aviation-related systems, or coordinated delivery with Technologies."
+title: 接触
+description: GIS、空間プラットフォーム、航空関連システム、またはテクノロジーとの連携した提供について話し合います。
 translationKey: contact
 menu:
   main:

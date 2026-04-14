@@ -1,6 +1,6 @@
 ---
-title: "Case studies"
-description: "Engineering narratives with problem, solution, architecture, and impact."
+title: Casi di studio
+description: Narrazioni ingegneristiche con problema, soluzione, architettura e impatto.
 translationKey: case-studies
 menu:
   main:

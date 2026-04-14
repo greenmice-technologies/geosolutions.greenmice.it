@@ -1,24 +1,23 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
+title: IDS AirNav連携
+description: ENAV エコシステムにおけるエンジニアリング パートナーシップ - 信頼性、統合、保守性。
 translationKey: case-ids-airnav
 ---
+## 問題
 
-## Problem
+航空関連ソフトウェアは、特殊なシステムやベンダーの境界を越えて統合する必要があります。課題は機能を出荷するだけではなく、相互運用性の制約が進化する中でリリースを予測可能に保つことです。
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+## 解決策
 
-## Solution
+当社は **IDS AirNav** と連携したエンジニアリング パートナーとして活動し、より広範な ENAV コンテキスト内での統合規律、運用準備状況、および長期的な保守性に重点を置いています。
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+## アーキテクチャ
 
-## Architecture
+- 明示的なサービス境界と連携システム間の安定したインターフェイス
+- 運用リスクに合わせたテストおよび検証戦略
+- 実稼働サポートのワークフローに適した可観測性と診断
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+## 影響
 
-## Impact
-
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- より明確な契約と所有権により、納品サイクルにおける摩擦を軽減
+- リリースや組織変更を経てシステムが進化するにつれて保守性が向上

@@ -1,17 +1,17 @@
 ---
-title: "GIS engineering"
-description: "Spatial models, services, and pipelines engineered for operational reality."
+title: GIS-Engineering
+description: Räumliche Modelle, Dienste und Pipelines, die für die betriebliche Realität
+  entwickelt wurden.
 translationKey: capabilities-gis
 ---
+GIS-Programme schlagen fehl, wenn Karten als Zeichnungen und nicht als **Datenprodukte** behandelt werden. Wir entwickeln räumliche Systeme mit expliziten Topologieregeln, Serviceebenen und Release-Prozessen, die Audits und Spitzenauslastung überstehen.
 
-GIS programs fail when maps are treated as drawings instead of **data products**. We engineer spatial systems with explicit topology rules, service tiers, and release processes that survive audits and peak usage.
+### Was wir bauen
 
-### What we build
+- Geodatenmodelle, die auf betriebliche Arbeitsabläufe abgestimmt sind – nicht nur auf die Kartografie
+- Ordnen Sie Dienste mit Leistungsbudgets und Caching-Strategien zu, die auf Nutzungsmustern basieren
+- ETL- und Validierungspipelines mit Rückverfolgbarkeit für Korrekturen und Herkunft
 
-- Spatial data models aligned to operational workflows—not only cartography
-- Map services with performance budgets and caching strategies grounded in usage patterns
-- ETL and validation pipelines with traceability for corrections and lineage
+### Ergebnisse
 
-### Outcomes
-
-Teams can iterate safely: changes are testable, observable, and reversible.
+Teams können sicher iterieren: Änderungen sind testbar, beobachtbar und reversibel.

@@ -1,34 +1,26 @@
 enable: true
-
-title: "Spatial systems.<br/>Built for critical operations."
-
-text: "Greenmice Geosolutions engineers GIS platforms, spatial data services, and aeronautical tooling for organizations where accuracy, safety, and integration depth are non-negotiable."
-
+title: 空間システム。<br/>重要な操作のために構築されています。
+text: Greenmice Geosolutions は、精度、安全性、統合の深さが交渉の余地のない組織向けに、GIS プラットフォーム、空間データ サービス、航空ツールを設計しています。
 buttons:
-  - label: "Capabilities"
-    link: "capabilities/"
-  - label: "Contact"
-    link: "contact/"
-
-image: "images/home/hero/hero-geo.svg"
-
+- label: 能力
+  link: capabilities/
+- label: 接触
+  link: contact/
+image: images/home/hero/hero-geo.svg
 items:
-  - icon: "fas fa-map-location-dot"
-    color: "#1AA6A6"
-    title: "GIS engineering"
-    text: "Models, pipelines, and services aligned to real-world geometry."
-
-  - icon: "fas fa-plane-up"
-    color: "#1AA6A6"
-    title: "Aeronautical systems"
-    text: "Mission-critical workflows and interoperability constraints."
-
-  - icon: "fas fa-database"
-    color: "#1AA6A6"
-    title: "Spatial data platforms"
-    text: "From ingestion to analytics—with governance and performance."
-
-  - icon: "fas fa-handshake"
-    color: "#1AA6A6"
-    title: "Partnership depth"
-    text: "Long-running collaboration with IDS AirNav (ENAV group)."
+- icon: fas fa-map-location-dot
+  color: '#1AA6A6'
+  title: GISエンジニアリング
+  text: 現実世界のジオメトリに合わせたモデル、パイプライン、サービス。
+- icon: fas fa-plane-up
+  color: '#1AA6A6'
+  title: 航空システム
+  text: ミッションクリティカルなワークフローと相互運用性の制約。
+- icon: fas fa-database
+  color: '#1AA6A6'
+  title: 空間データプラットフォーム
+  text: 取り込みから分析まで、ガバナンスとパフォーマンスを備えています。
+- icon: fas fa-handshake
+  color: '#1AA6A6'
+  title: パートナーシップの深さ
+  text: IDS AirNav (ENAV グループ) との長期にわたるコラボレーション。

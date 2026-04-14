@@ -1,6 +1,6 @@
 ---
-title: "Capabilities"
-description: "GIS engineering, aeronautical systems, and spatial data platforms—designed for production."
+title: 能力
+description: GIS 工程、航空系统和空间数据平台——专为生产而设计。
 translationKey: capabilities
 menu:
   main:
@@ -10,5 +10,4 @@ menu:
     identifier: capabilities
     weight: 30
 ---
-
-Pick a capability area to see how we structure engineering work, typical integration constraints, and the outcomes we optimize for.
+选择一个能力领域，了解我们如何构建工程工作、典型的集成约束以及我们优化的结果。

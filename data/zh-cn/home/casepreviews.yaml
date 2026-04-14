@@ -1,20 +1,15 @@
 enable: true
-
-title: "Case studies"
-
-subtitle: "Partnership delivery with measurable engineering outcomes."
-
+title: 案例研究
+subtitle: 合作伙伴交付可衡量的工程成果。
 cta:
-  label: "View all"
-  link: "case-studies/"
-
+  label: 查看全部
+  link: case-studies/
 items:
-  - tag: "Aviation"
-    title: "IDS AirNav collaboration"
-    summary: "Engineering support and platform work alongside IDS AirNav within the ENAV ecosystem—focused on reliability, integration, and long-term maintainability."
-    link: "case-studies/ids-airnav/"
-
-  - tag: "Energy"
-    title: "Energy network spatial intelligence"
-    summary: "Spatial analytics and platform foundations for asset-heavy operators—designed for operational teams, not one-off dashboards."
-    link: "case-studies/energy/"
+- tag: 航空
+  title: IDS AirNav 协作
+  summary: 工程支持和平台与 ENAV 生态系统中的 IDS AirNav 协同工作，重点关注可靠性、集成和长期可维护性。
+  link: case-studies/ids-airnav/
+- tag: 活力
+  title: 能源网络空间智能
+  summary: 面向资产密集型运营商的空间分析和平台基础——专为运营团队设计，而不是一次性仪表板。
+  link: case-studies/energy/

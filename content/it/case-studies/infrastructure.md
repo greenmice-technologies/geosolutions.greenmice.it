@@ -1,23 +1,22 @@
 ---
-title: "Infrastructure spatial systems"
-description: "Traceable spatial workflows for large infrastructure portfolios."
+title: Sistemi spaziali infrastrutturali
+description: Flussi di lavoro spaziali tracciabili per grandi portafogli infrastrutturali.
 translationKey: case-infrastructure
 ---
+## Problema
 
-## Problem
+I proprietari delle infrastrutture hanno bisogno di sistemi spaziali che sopravvivano al turnover organizzativo: i dati devono rimanere tracciabili attraverso sondaggi, modifiche alla progettazione, aggiornamenti di costruzione e operazioni.
 
-Infrastructure owners need spatial systems that survive organizational turnover: data must remain traceable across surveys, design changes, construction updates, and operations.
+## Soluzione
 
-## Solution
+Implementiamo flussi di lavoro spaziali con discendenza esplicita: cosa è cambiato, perché è cambiato e come si propaga ai sistemi dipendenti.
 
-We implement spatial workflows with explicit lineage: what changed, why it changed, and how it propagates to dependent systems.
+## Architettura
 
-## Architecture
+- Identificatori stabili e modelli di versione per le risorse spaziali
+- Livelli di integrazione che riducono l'accoppiamento tra strumenti sul campo, sistemi di ingegneria e IT aziendale
+- Pianificazione delle prestazioni per set di dati a livello nazionale e utenti simultanei
 
-- Stable identifiers and versioning patterns for spatial assets
-- Integration layers that reduce coupling between field tools, engineering systems, and corporate IT
-- Performance planning for nationwide datasets and concurrent users
+## Impatto
 
-## Impact
-
-Lower operational risk, fewer reconciliation crises, and a platform posture that supports long-term maintenance.
+Rischio operativo inferiore, meno crisi di riconciliazione e un approccio della piattaforma che supporta la manutenzione a lungo termine.

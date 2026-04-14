@@ -1,17 +1,16 @@
 ---
-title: "Aeronautical systems"
-description: "Software aligned to procedures, interoperability, and operational safety culture."
+title: 航空システム
+description: 手順、相互運用性、運用上の安全文化に合わせたソフトウェア。
 translationKey: capabilities-aero
 ---
+航空ソフトウェアは「より高速な CRUD」ではありません。これは、相互運用性が厳密に期待される、安全性を重視した環境に組み込まれたワークフロー ソフトウェアです。
 
-Aeronautical software is not “faster CRUD.” It is workflow software embedded in a safety-conscious environment with strict interoperability expectations.
+### 私たちが注力していること
 
-### What we focus on
+- 不一致がコストのかかる地上および空域関連システム間のデータ契約
+- 運用ワークフロー: 引き継ぎ、承認、トレーサビリティ
+- 認証と変更管理の現実を尊重する規律を解放する
 
-- Data contracts between ground and airspace-related systems where mismatches are costly
-- Operational workflows: handoffs, approvals, and traceability
-- Release discipline that respects certification and change-management realities
+### 提供方法
 
-### How we deliver
-
-Small senior teams, explicit interfaces, and instrumentation that supports incident diagnosis without guesswork.
+小規模な上級チーム、明示的なインターフェイス、および推測に頼ることなくインシデント診断をサポートする機器。

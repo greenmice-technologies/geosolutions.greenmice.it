@@ -1,6 +1,7 @@
 ---
-title: "Clients"
-description: "Organizations and ecosystems where spatial correctness and operational discipline matter."
+title: Clienti
+description: Organizzazioni ed ecosistemi in cui la correttezza spaziale e la disciplina
+  operativa contano.
 translationKey: clients
 menu:
   main:
@@ -10,13 +11,12 @@ menu:
     identifier: clients
     weight: 50
 ---
+Lavoriamo con team che operano in ambienti regolamentati e ad alto carico di risorse.
 
-We work with teams operating in regulated and asset-heavy environments.
+### In evidenza
 
-### Highlights
+- **IDS AirNav**: profonda collaborazione ingegneristica all'interno dell'ecosistema ENAV
+- **Proprietari di infrastrutture**: intelligenza spaziale per portafogli di grandi dimensioni
+- **Operatori energetici**: analisi operative basate su dati spaziali affidabili
 
-- **IDS AirNav** — deep engineering collaboration within the ENAV ecosystem
-- **Infrastructure owners** — spatial intelligence for large portfolios
-- **Energy operators** — operational analytics grounded in trustworthy spatial data
-
-We do not publish confidential details. If you need a reference path appropriate to your sector, contact us.
+Non pubblichiamo dettagli riservati. Se hai bisogno di un percorso di riferimento adeguato al tuo settore, contattaci.

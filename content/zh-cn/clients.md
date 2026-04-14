@@ -1,6 +1,6 @@
 ---
-title: "Clients"
-description: "Organizations and ecosystems where spatial correctness and operational discipline matter."
+title: 客户
+description: 空间正确性和操作纪律很重要的组织和生态系统。
 translationKey: clients
 menu:
   main:
@@ -10,13 +10,12 @@ menu:
     identifier: clients
     weight: 50
 ---
+我们与在受监管和资产密集的环境中运营的团队合作。
 
-We work with teams operating in regulated and asset-heavy environments.
+### 亮点
 
-### Highlights
+- **IDS AirNav** — ENAV 生态系统内的深度工程协作
+- **基础设施所有者** — 大型投资组合的空间智能
+- **能源运营商** — 基于可信空间数据的运营分析
 
-- **IDS AirNav** — deep engineering collaboration within the ENAV ecosystem
-- **Infrastructure owners** — spatial intelligence for large portfolios
-- **Energy operators** — operational analytics grounded in trustworthy spatial data
-
-We do not publish confidential details. If you need a reference path appropriate to your sector, contact us.
+我们不会公布机密细节。如果您需要适合您所在行业的参考路径，请联系我们。

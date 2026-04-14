@@ -1,6 +1,6 @@
 ---
-title: "Case studies"
-description: "Engineering narratives with problem, solution, architecture, and impact."
+title: Études de cas
+description: Récits d'ingénierie avec problème, solution, architecture et impact.
 translationKey: case-studies
 menu:
   main:
@@ -10,5 +10,4 @@ menu:
     identifier: case-studies
     weight: 40
 ---
-
-These studies are written for technical readers: clear constraints, deliberate trade-offs, and measurable results.
+Ces études sont rédigées pour des lecteurs techniques : des contraintes claires, des compromis délibérés et des résultats mesurables.

@@ -1,18 +1,17 @@
 ---
-title: "Spatial data platforms"
-description: "Catalogs, APIs, analytics, and governance for spatial data at enterprise scale."
+title: 空間データプラットフォーム
+description: エンタープライズ規模での空間データのカタログ、API、分析、ガバナンス。
 translationKey: capabilities-platforms
 ---
+空間分析は、基盤となるプラットフォーム、つまり検出可能なデータセット、制御されたアクセス、再現可能なパイプライン、実際の同時実行下で維持されるパフォーマンスが信頼できる場合にのみ重要になります。
 
-Spatial analytics only matters if the underlying platform is trustworthy: discoverable datasets, controlled access, reproducible pipelines, and performance that holds under real concurrency.
+### プラットフォームの構成要素
 
-### Platform building blocks
+- チームが実際に採用するメタデータとカタログ化パターン
+- インタラクティブな使用とバッチ処理の両方のために設計された API
+- 空間データを監査可能にする系統と品質のメトリクス
+- 可観測性: 第一級の懸念事項としてのコスト、レイテンシー、障害分析
 
-- Metadata and cataloging patterns that teams actually adopt
-- APIs designed for both interactive use and batch processing
-- Lineage and quality metrics that make spatial data auditable
-- Observability: cost, latency, and failure analysis as first-class concerns
+### これが価値を生み出す場所
 
-### Where this creates value
-
-Energy networks, infrastructure operators, geo-marketing intelligence, and aviation-related organizations that must reconcile spatial truth across departments and partners.
+部門やパートナー間で空間的真実を調整する必要があるエネルギー ネットワーク、インフラストラクチャ オペレーター、地域マーケティング インテリジェンス、航空関連組織。

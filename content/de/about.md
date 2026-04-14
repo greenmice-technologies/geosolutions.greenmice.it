@@ -1,6 +1,7 @@
 ---
-title: "About"
-description: "Geospatial engineering with aviation-grade discipline—delivered as a dedicated company."
+title: Um
+description: Geodatentechnik mit Disziplin auf Luftfahrtniveau – bereitgestellt als
+  engagiertes Unternehmen.
 translationKey: about
 menu:
   main:
@@ -10,11 +11,10 @@ menu:
     identifier: about
     weight: 20
 ---
+Greenmice Geosolutions ist das Unternehmen der Greenmice Group, das sich auf **GIS-Engineering**, **Geodatenplattformen** und **Luftfahrtsysteme** konzentriert. Wir entwickeln Software, bei der räumliche Korrektheit, Interoperabilität und Betriebszuverlässigkeit nicht verhandelbar sind.
 
-Greenmice Geosolutions is the Greenmice Group company focused on **GIS engineering**, **spatial data platforms**, and **aeronautical systems**. We build software where spatial correctness, interoperability, and operational reliability are not negotiable.
+Wir pflegen eine langjährige Zusammenarbeit mit **IDS AirNav** im **ENAV**-Ökosystem – eine Arbeit, die unseren Fokus auf Integrationsdisziplin, Lebenszykluswartung und sicherheitsbewusste Bereitstellung verstärkt.
 
-We maintain a long-running collaboration with **IDS AirNav** in the **ENAV** ecosystem—work that reinforces our focus on integration discipline, lifecycle maintenance, and safety-conscious delivery.
+### Beziehung zu Greenmice Technologies
 
-### Relationship to Greenmice Technologies
-
-**Greenmice Technologies** delivers broader enterprise engineering: AI systems, modernization, mobile products, and CTO leadership. When programs span spatial systems and core enterprise software, the two companies coordinate—without mixing ownership or delivery accountability.
+**Greenmice Technologies** bietet umfassenderes Enterprise Engineering: KI-Systeme, Modernisierung, mobile Produkte und CTO-Führung. Wenn sich die Programme über räumliche Systeme und zentrale Unternehmenssoftware erstrecken, koordinieren sich die beiden Unternehmen – ohne dass sich Eigentum oder Lieferverantwortung vermischen.

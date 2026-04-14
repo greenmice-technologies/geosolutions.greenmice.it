@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "Geospatial engineering with aviation-grade discipline—delivered as a dedicated company."
+title: について
+description: 航空グレードの専門分野を備えた地理空間エンジニアリングを専門の会社として提供します。
 translationKey: about
 menu:
   main:
@@ -10,11 +10,10 @@ menu:
     identifier: about
     weight: 20
 ---
+Greenmice Geosolutions は、**GIS エンジニアリング**、**空間データ プラットフォーム**、**航空システム**に重点を置いている Greenmice グループ会社です。私たちは、空間の正確性、相互運用性、動作の信頼性が交渉の余地のないソフトウェアを構築します。
 
-Greenmice Geosolutions is the Greenmice Group company focused on **GIS engineering**, **spatial data platforms**, and **aeronautical systems**. We build software where spatial correctness, interoperability, and operational reliability are not negotiable.
+当社は、**ENAV** エコシステム内で **IDS AirNav** との長期にわたる協力関係を維持しています。これにより、統合規律、ライフサイクル メンテナンス、安全性を考慮した配信への重点を強化しています。
 
-We maintain a long-running collaboration with **IDS AirNav** in the **ENAV** ecosystem—work that reinforces our focus on integration discipline, lifecycle maintenance, and safety-conscious delivery.
+### Greenmice Technologies との関係
 
-### Relationship to Greenmice Technologies
-
-**Greenmice Technologies** delivers broader enterprise engineering: AI systems, modernization, mobile products, and CTO leadership. When programs span spatial systems and core enterprise software, the two companies coordinate—without mixing ownership or delivery accountability.
+**Greenmice Technologies** は、AI システム、最新化、モバイル製品、CTO のリーダーシップなど、より広範なエンタープライズ エンジニアリングを提供します。プログラムが空間システムとコアのエンタープライズ ソフトウェアにまたがる場合、両社は所有権や提供責任を混在させることなく調整します。

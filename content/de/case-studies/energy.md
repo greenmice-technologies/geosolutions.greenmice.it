@@ -1,23 +1,22 @@
 ---
-title: "Energy network spatial intelligence"
-description: "Spatial analytics and platform foundations for asset-heavy operators."
+title: Räumliche Intelligenz des Energienetzwerks
+description: Räumliche Analysen und Plattformgrundlagen für anlagenintensive Betreiber.
 translationKey: case-energy
 ---
-
 ## Problem
 
-Energy operators manage large, geographically distributed assets. Decisions depend on reconciling spatial truth across surveys, operational systems, and analytics—often under tight operational windows.
+Energiebetreiber verwalten große, geografisch verteilte Anlagen. Entscheidungen hängen vom Abgleich der räumlichen Wahrheit zwischen Vermessungen, Betriebssystemen und Analysen ab – oft unter engen Betriebsfenstern.
 
-## Solution
+## Lösung
 
-We build spatial intelligence foundations that teams can trust: consistent geometry, governed datasets, and services aligned to operational workflows—not one-off dashboards.
+Wir schaffen räumliche Intelligenzgrundlagen, denen Teams vertrauen können: konsistente Geometrie, verwaltete Datensätze und Dienste, die auf betriebliche Arbeitsabläufe abgestimmt sind – keine einmaligen Dashboards.
 
-## Architecture
+## Architektur
 
-- Spatial pipelines with validation and reconciliation steps
-- APIs that support both interactive operations and batch analytics
-- Governance patterns that make datasets discoverable and auditable
+- Räumliche Pipelines mit Validierungs- und Abgleichsschritten
+– APIs, die sowohl interaktive Vorgänge als auch Batch-Analysen unterstützen
+- Governance-Muster, die Datensätze auffindbar und überprüfbar machen
 
-## Impact
+## Auswirkungen
 
-Faster, more confident operational decisions; fewer mismatches between “map” and “reality” across departments.
+Schnellere und sicherere operative Entscheidungen; weniger Abweichungen zwischen „Landkarte“ und „Realität“ zwischen den Abteilungen.

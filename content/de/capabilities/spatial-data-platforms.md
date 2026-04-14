@@ -1,18 +1,17 @@
 ---
-title: "Spatial data platforms"
-description: "Catalogs, APIs, analytics, and governance for spatial data at enterprise scale."
+title: Geodatenplattformen
+description: Kataloge, APIs, Analysen und Governance für Geodaten auf Unternehmensebene.
 translationKey: capabilities-platforms
 ---
+Räumliche Analysen sind nur dann von Bedeutung, wenn die zugrunde liegende Plattform vertrauenswürdig ist: auffindbare Datensätze, kontrollierter Zugriff, reproduzierbare Pipelines und Leistung, die bei echter Parallelität Bestand hat.
 
-Spatial analytics only matters if the underlying platform is trustworthy: discoverable datasets, controlled access, reproducible pipelines, and performance that holds under real concurrency.
+### Plattformbausteine
 
-### Platform building blocks
+– Metadaten und Katalogisierungsmuster, die Teams tatsächlich übernehmen
+– APIs, die sowohl für die interaktive Nutzung als auch für die Stapelverarbeitung konzipiert sind
+- Abstammungs- und Qualitätsmetriken, die räumliche Daten überprüfbar machen
+- Beobachtbarkeit: Kosten-, Latenz- und Fehleranalyse als erstklassige Anliegen
 
-- Metadata and cataloging patterns that teams actually adopt
-- APIs designed for both interactive use and batch processing
-- Lineage and quality metrics that make spatial data auditable
-- Observability: cost, latency, and failure analysis as first-class concerns
+### Wo das Mehrwert schafft
 
-### Where this creates value
-
-Energy networks, infrastructure operators, geo-marketing intelligence, and aviation-related organizations that must reconcile spatial truth across departments and partners.
+Energienetzwerke, Infrastrukturbetreiber, Geomarketing-Intelligenz und luftfahrtbezogene Organisationen, die abteilungs- und partnerübergreifend die räumliche Wahrheit in Einklang bringen müssen.

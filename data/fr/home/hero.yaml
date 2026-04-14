@@ -1,34 +1,28 @@
 enable: true
-
-title: "Spatial systems.<br/>Built for critical operations."
-
-text: "Greenmice Geosolutions engineers GIS platforms, spatial data services, and aeronautical tooling for organizations where accuracy, safety, and integration depth are non-negotiable."
-
+title: Systèmes spatiaux.<br/>Conçus pour les opérations critiques.
+text: Greenmice Geosolutions conçoit des plates-formes SIG, des services de données
+  spatiales et des outils aéronautiques pour les organisations où la précision, la
+  sécurité et la profondeur d'intégration ne sont pas négociables.
 buttons:
-  - label: "Capabilities"
-    link: "capabilities/"
-  - label: "Contact"
-    link: "contact/"
-
-image: "images/home/hero/hero-geo.svg"
-
+- label: Capacités
+  link: capabilities/
+- label: Contact
+  link: contact/
+image: images/home/hero/hero-geo.svg
 items:
-  - icon: "fas fa-map-location-dot"
-    color: "#1AA6A6"
-    title: "GIS engineering"
-    text: "Models, pipelines, and services aligned to real-world geometry."
-
-  - icon: "fas fa-plane-up"
-    color: "#1AA6A6"
-    title: "Aeronautical systems"
-    text: "Mission-critical workflows and interoperability constraints."
-
-  - icon: "fas fa-database"
-    color: "#1AA6A6"
-    title: "Spatial data platforms"
-    text: "From ingestion to analytics—with governance and performance."
-
-  - icon: "fas fa-handshake"
-    color: "#1AA6A6"
-    title: "Partnership depth"
-    text: "Long-running collaboration with IDS AirNav (ENAV group)."
+- icon: fas fa-map-location-dot
+  color: '#1AA6A6'
+  title: Ingénierie SIG
+  text: Modèles, pipelines et services alignés sur la géométrie du monde réel.
+- icon: fas fa-plane-up
+  color: '#1AA6A6'
+  title: Systèmes aéronautiques
+  text: Flux de travail critiques et contraintes d’interopérabilité.
+- icon: fas fa-database
+  color: '#1AA6A6'
+  title: Plateformes de données spatiales
+  text: De l’ingestion à l’analyse, avec gouvernance et performances.
+- icon: fas fa-handshake
+  color: '#1AA6A6'
+  title: Profondeur du partenariat
+  text: Collaboration de longue date avec IDS AirNav (groupe ENAV).

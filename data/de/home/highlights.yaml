@@ -1,14 +1,15 @@
 enable: true
-
 items:
-  - title: "Greenmice Technologies"
-    text: "Our sister company delivers AI systems, enterprise engineering, mobile products, and CTO as a Service. If your roadmap spans spatial and core software, we align delivery across both teams."
-    button:
-      label: "How the companies relate"
-      link: "technologies/"
-
-  - title: "Infrastructure at scale"
-    text: "Spatial intelligence for large asset portfolios: alignment across survey data, operational systems, and decision workflows—without losing traceability."
-    button:
-      label: "Infrastructure case study"
-      link: "case-studies/infrastructure/"
+- title: Greenmice-Technologien
+  text: Unser Schwesterunternehmen liefert KI-Systeme, Enterprise Engineering, mobile
+    Produkte und CTO as a Service. Wenn Ihre Roadmap räumliche und Kernsoftware umfasst,
+    stimmen wir die Bereitstellung beider Teams aufeinander ab.
+  button:
+    label: Wie sich die Unternehmen verhalten
+    link: technologies/
+- title: Infrastruktur im Maßstab
+  text: 'Räumliche Intelligenz für große Anlagenportfolios: Abstimmung über Vermessungsdaten,
+    Betriebssysteme und Entscheidungsabläufe hinweg – ohne Verlust der Rückverfolgbarkeit.'
+  button:
+    label: Fallstudie zur Infrastruktur
+    link: case-studies/infrastructure/

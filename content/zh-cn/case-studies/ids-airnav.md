@@ -1,24 +1,23 @@
 ---
-title: "IDS AirNav collaboration"
-description: "Engineering partnership in the ENAV ecosystem—reliability, integration, and maintainability."
+title: IDS AirNav 协作
+description: ENAV 生态系统中的工程合作伙伴关系——可靠性、集成性和可维护性。
 translationKey: case-ids-airnav
 ---
+## 问题
 
-## Problem
+航空相关软件必须跨专业系统和供应商边界进行集成。挑战不仅在于发布功能，还在于在互操作性限制不断变化的同时保持版本的可预测性。
 
-Aviation-related software must integrate across specialized systems and vendor boundaries. The challenge is not only shipping features, but keeping releases predictable while interoperability constraints evolve.
+## 解决方案
 
-## Solution
+我们作为工程合作伙伴与 **IDS AirNav** 一起工作，专注于更广泛的 ENAV 背景下的集成规则、运营准备情况和长期可维护性。
 
-We work as an engineering partner alongside **IDS AirNav**, focusing on integration discipline, operational readiness, and long-term maintainability within the broader ENAV context.
+## 架构
 
-## Architecture
+- 明确的服务边界和协作系统之间稳定的接口
+- 与操作风险相一致的测试和验证策略
+- 适合生产支持工作流程的可观察性和诊断
 
-- Explicit service boundaries and stable interfaces between cooperating systems
-- Testing and validation strategies aligned to operational risk
-- Observability and diagnostics suited to production support workflows
+## 影响
 
-## Impact
-
-- Reduced friction in delivery cycles through clearer contracts and ownership
-- Improved maintainability as systems evolve across releases and organizational changes
+- 通过更清晰的合同和所有权减少交付周期中的摩擦
+- 随着系统跨版本和组织变化的发展，提高了可维护性

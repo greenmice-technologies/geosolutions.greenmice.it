@@ -1,6 +1,6 @@
 ---
-title: "Case studies"
-description: "Engineering narratives with problem, solution, architecture, and impact."
+title: ケーススタディ
+description: 問題、解決策、アーキテクチャ、影響を含むエンジニアリングの物語。
 translationKey: case-studies
 menu:
   main:
