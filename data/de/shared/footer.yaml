@@ -2,8 +2,8 @@ enable: true
 contact:
   title: Kontakt
   items:
-  - label: info@greenmice.it
-    link: mailto:info@greenmice.it
+  - label: info@geosolutions.greenmice.it
+    link: mailto:info@geosolutions.greenmice.it
 social:
 - title: LinkedIn
   icon: linkedin

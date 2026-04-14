@@ -2,8 +2,8 @@ enable: true
 contact:
   title: 接触
   items:
-  - label: info@greenmice.it
-    link: mailto:info@greenmice.it
+  - label: info@geosolutions.greenmice.it
+    link: mailto:info@geosolutions.greenmice.it
 social:
 - title: 领英
   icon: linkedin

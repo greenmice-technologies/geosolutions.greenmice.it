@@ -15,9 +15,17 @@ favicons:
   faviconColor: "#1AA6A6"
 
 contact:
-  - "info@greenmice.it"
+  - "info@geosolutions.greenmice.it"
 
 social:
   linkedin: "https://www.linkedin.com/company/greenmice"
+  github: "https://github.com/greenmice"
+
+address_lines:
+  - "Greenmice Geosolutions S.r.l."
+  - "Piazzale delle Provincie, 8 - 00162 - Roma"
+  - "Mobile: +39 328 3615959"
+  - "P. IVA 17505441000"
+  - "Capitale sociale: Euro 10.000,00 interamente versato"
 
 copyright: "© Greenmice Geosolutions S.r.l."

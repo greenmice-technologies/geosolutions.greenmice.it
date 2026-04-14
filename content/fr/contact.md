@@ -13,7 +13,7 @@ menu:
 
 ### Email
 
-**info@greenmice.it**
+**info@geosolutions.greenmice.it**
 
 Include your domain (energy, infrastructure, aviation, geo-marketing), constraints you can share, and whether you may also need core enterprise engineering from **Greenmice Technologies**.
 
