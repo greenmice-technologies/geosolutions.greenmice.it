@@ -1,12 +1,12 @@
 enable: true
 
-title: "Geospatial systems,<br/>engineered with precision."
+title: "Complexity<br/>made simple."
 
 text: "GIS, aeronautical systems, and spatial data platforms designed for production environments."
 
 buttons:
-  - label: "Services"
-    link: "services/"
+  - label: "Learn more"
+    link: "#features"
   - label: "Contact"
     link: "contact/"
 

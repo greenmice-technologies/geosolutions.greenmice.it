@@ -1,7 +1,7 @@
 ---
 title: "Spatial data platforms"
 description: "Design and implementation of platforms for managing, querying, and processing large geospatial datasets."
-translationKey: capabilities-platforms
+translationKey: Services-platforms
 ---
 
 Spatial analytics only matters if the underlying platform is trustworthy: discoverable datasets, controlled access, reproducible pipelines, and performance that holds under real concurrency.

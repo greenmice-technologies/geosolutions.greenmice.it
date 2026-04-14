@@ -1,34 +1,22 @@
 enable: true
 
-title: "Capabilities"
+title: 'Services'
 
-subtitle: "GIS engineering, aeronautical systems, web mapping, and spatial data platforms — designed for production environments."
+subtitle: 'GIS engineering, aeronautical systems, web mapping, and spatial data platforms — designed for production environments.'
 
 cta:
-  label: "All services"
-  link: "services/"
+  label: 'All services'
+  link: 'services/'
 
 items:
-  - title: "Spatial data platforms"
-    text: "Design and implementation of platforms for managing, querying, and processing large geospatial datasets."
+  - title: 'Aeronautical systems'
+    text: 'Engineering of aviation-related systems, including aeronautical data processing and visualization.'
     button:
-      label: "Explore service"
-      link: "services/spatial-data-platforms/"
+      label: 'Explore service'
+      link: 'services/aeronautical-systems/'
 
-  - title: "Aeronautical systems"
-    text: "Engineering of aviation-related systems, including aeronautical data processing and visualization."
+  - title: 'GIS engineering'
+    text: 'Development of GIS solutions across multiple domains, including energy, infrastructure, and geo-marketing.'
     button:
-      label: "Explore service"
-      link: "services/aeronautical-systems/"
-
-  - title: "GIS engineering"
-    text: "Development of GIS solutions across multiple domains, including energy, infrastructure, and geo-marketing."
-    button:
-      label: "Explore service"
-      link: "services/gis-engineering/"
-
-  - title: "Web mapping interfaces"
-    text: "High-performance web applications for visualization and interaction with complex spatial data."
-    button:
-      label: "Explore service"
-      link: "services/web-mapping-interfaces/"
+      label: 'Explore service'
+      link: 'services/gis-engineering/'

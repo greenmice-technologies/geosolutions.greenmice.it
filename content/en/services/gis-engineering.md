@@ -1,7 +1,7 @@
 ---
 title: "GIS engineering"
 description: "Development of GIS solutions across multiple domains, including energy, infrastructure, and geo-marketing."
-translationKey: capabilities-gis
+translationKey: Services-gis
 ---
 
 GIS programs fail when maps are treated as drawings instead of **data products**. We engineer spatial systems with explicit topology rules, service tiers, and release processes that survive audits and peak usage.

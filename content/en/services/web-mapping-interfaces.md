@@ -1,7 +1,7 @@
 ---
 title: "Web mapping interfaces"
 description: "High-performance web applications for visualization and interaction with complex spatial data."
-translationKey: capabilities-web-mapping
+translationKey: Services-web-mapping
 ---
 
 Web mapping is where spatial data becomes operational: users need fast rendering, trustworthy interactions, and behavior that stays predictable as datasets and concurrency grow.

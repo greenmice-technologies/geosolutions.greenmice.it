@@ -1,27 +1,27 @@
 enable: true
 
-title: "Domains we serve"
+title: 'Domains we serve'
 
-text: "Energy networks, transport infrastructure, geo-marketing intelligence, and aviation systems—where spatial correctness and operational discipline intersect."
+text: 'Energy networks, transport infrastructure, geo-marketing intelligence, and aviation systems—where spatial correctness and operational discipline intersect.'
 
 items:
-  - pretitle: "GIS"
-    pretext: "Engineering"
-    color: "#1AA6A6"
-    icon: "drafting-compass"
-    title: "From data models to operational map services"
-    text: "We design and harden spatial architectures: reference systems, topology rules, service tiers, and release processes that survive audits and peak load—not just demos."
+  - pretitle: 'GIS'
+    pretext: 'Engineering'
+    color: '#1AA6A6'
+    icon: 'drafting-compass'
+    title: 'From data models to operational map services'
+    text: 'We design and harden spatial architectures: reference systems, topology rules, service tiers, and release processes that survive audits and peak load—not just demos.'
 
-  - pretitle: "Aviation"
-    pretext: "Aeronautical"
-    color: "#1AA6A6"
-    icon: "radar"
-    title: "Aeronautical tooling aligned to real procedures"
-    text: "We build software that respects operational workflows, data contracts, and safety culture—especially where airspace and ground systems must stay in sync."
+  - pretitle: 'Aviation'
+    pretext: 'Aeronautical'
+    color: '#1AA6A6'
+    icon: 'radar'
+    title: 'Aeronautical tooling aligned to real procedures'
+    text: 'We build software that respects operational workflows, data contracts, and safety culture—especially where airspace and ground systems must stay in sync.'
 
-  - pretitle: "Platforms"
-    pretext: "Spatial data"
-    color: "#1AA6A6"
-    icon: "server"
-    title: "Spatial data platforms that scale"
-    text: "Pipelines, catalogs, APIs, and observability for teams that need trustworthy spatial analytics across business units and partners."
+  - pretitle: 'Platforms'
+    pretext: 'Spatial data'
+    color: '#1AA6A6'
+    icon: 'server'
+    title: 'Spatial data platforms that scale'
+    text: 'Pipelines, catalogs, APIs, and observability for teams that need trustworthy spatial analytics across business units and partners.'

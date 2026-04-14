@@ -1,7 +1,7 @@
 ---
 title: "Aeronautical systems"
 description: "Engineering of aviation-related systems, including aeronautical data processing and visualization."
-translationKey: capabilities-aero
+translationKey: Services-aero
 ---
 
 Aeronautical software is not “faster CRUD.” It is workflow software embedded in a safety-conscious environment with strict interoperability expectations.
