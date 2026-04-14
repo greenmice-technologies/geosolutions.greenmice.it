@@ -8,7 +8,7 @@ buttons:
   link: capabilities/
 - label: Contacto
   link: contact/
-image: images/home/hero/hero-geo.svg
+image: images/home/hero/hero.svg
 items:
 - icon: fas fa-map-location-dot
   color: '#1AA6A6'
