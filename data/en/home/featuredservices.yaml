@@ -1,0 +1,22 @@
+enable: true
+
+title: "Services"
+
+subtitle: "A selection of core geospatial capabilities."
+
+cta:
+  label: "All services"
+  link: "services/"
+
+items:
+  - title: "Aeronautical systems"
+    text: "Support for AIS and ATM contexts with domain-aligned engineering patterns, reliability, and maintainability across integrated environments."
+    button:
+      label: "Explore service"
+      link: "services/aeronautical-systems/"
+
+  - title: "GIS engineering"
+    text: "Design and delivery of robust geospatial systems, from data pipelines to operational tooling used by infrastructure and asset-heavy teams."
+    button:
+      label: "Explore service"
+      link: "services/gis-engineering/"
