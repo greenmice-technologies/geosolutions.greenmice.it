@@ -2,7 +2,7 @@ enable: true
 
 title: 'Services'
 
-subtitle: 'GIS engineering, aeronautical systems, web mapping, and spatial data platforms — designed for production environments.'
+subtitle: 'GIS engineering, aeronautical systems, web mapping, and spatial data platforms - built for production environments.'
 
 cta:
   label: 'All services'
@@ -10,13 +10,13 @@ cta:
 
 items:
   - title: 'Aeronautical systems'
-    text: 'Engineering of aviation-related systems, including aeronautical data processing and visualization.'
+    text: 'Engineering for aviation systems, including aeronautical data processing and visualization.'
     button:
       label: 'Explore service'
       link: 'services/aeronautical-systems/'
 
   - title: 'GIS engineering'
-    text: 'Development of GIS solutions across multiple domains, including energy, infrastructure, and geo-marketing.'
+    text: 'GIS solutions for energy, infrastructure, geomarketing, and other data-intensive domains.'
     button:
       label: 'Explore service'
       link: 'services/gis-engineering/'

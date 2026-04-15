@@ -2,7 +2,7 @@ enable: true
 
 title: 'Stories'
 
-subtitle: 'Selected projects across GIS platforms, aeronautical systems, and spatial data applications.'
+subtitle: 'Selected projects across GIS platforms, aeronautical systems, and spatial data products.'
 
 cta:
   label: 'All stories'
@@ -11,10 +11,10 @@ cta:
 items:
   - tag: 'Aviation'
     title: 'AIXM visualizer'
-    summary: 'Visualization and interaction tools for aeronautical data based on AIXM standards.'
+    summary: 'Visualization and interaction tools for aeronautical data built on AIXM standards.'
     link: 'stories/aixm/'
 
   - tag: 'Platforms'
     title: 'Gaia GIS platform'
-    summary: 'Browser-based GIS platform for querying and visualizing geospatial data without backend dependencies.'
+    summary: 'A browser-based GIS platform for querying and visualizing geospatial data without backend dependencies.'
     link: 'stories/gaia-gis-platform/'

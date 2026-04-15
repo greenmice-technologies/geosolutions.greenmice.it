@@ -6,6 +6,13 @@ contact:
     - label: 'info@geosolutions.greenmice.it'
       link: 'mailto:info@geosolutions.greenmice.it'
 
+address_lines:
+  - 'Greenmice Geosolutions S.r.l.'
+  - 'Piazzale delle Provincie 8, 00162 Rome, Italy'
+  - 'Mobile: +39 328 3615959'
+  - 'VAT ID: 17505441000'
+  - 'Share capital: EUR 10,000.00 fully paid'
+
 social:
   - title: 'LinkedIn'
     icon: 'linkedin'

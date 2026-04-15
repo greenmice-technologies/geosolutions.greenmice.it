@@ -1,34 +1,34 @@
 enable: true
 
-title: "Complexity<br/>made simple."
+title: 'Complexity<br/>made simple.'
 
-text: "GIS, aeronautical systems, and spatial data platforms designed for production environments."
+text: 'GIS, aeronautical systems, and spatial data platforms built for production environments.'
 
 buttons:
-  - label: "Learn more"
-    link: "#features"
-  - label: "Contact"
-    link: "contact/"
+  - label: 'Learn more'
+    link: '#features'
+  - label: 'Contact'
+    link: 'contact/'
 
-image: "images/home/hero/hero.svg"
+image: 'images/home/hero/hero.svg'
 
 items:
-  - icon: "map-pinned"
-    color: "#1AA6A6"
-    title: "GIS engineering"
-    text: "Models, pipelines, and services aligned to real-world geometry."
+  - icon: 'map-pinned'
+    color: '#1AA6A6'
+    title: 'GIS engineering'
+    text: 'Data models, pipelines, and services aligned with real-world geometry.'
 
-  - icon: "plane-takeoff"
-    color: "#1AA6A6"
-    title: "Aeronautical systems"
-    text: "Mission-critical workflows and interoperability constraints."
+  - icon: 'plane-takeoff'
+    color: '#1AA6A6'
+    title: 'Aeronautical systems'
+    text: 'Mission-critical workflows with strict interoperability requirements.'
 
-  - icon: "database"
-    color: "#1AA6A6"
-    title: "Spatial data platforms"
-    text: "From ingestion to analytics—with governance and performance."
+  - icon: 'database'
+    color: '#1AA6A6'
+    title: 'Spatial data platforms'
+    text: 'From ingestion to analytics, with governance and performance built in.'
 
-  - icon: "handshake"
-    color: "#1AA6A6"
-    title: "Partnership depth"
-    text: "Long-running collaboration with IDS AirNav (ENAV group)."
+  - icon: 'handshake'
+    color: '#1AA6A6'
+    title: 'Partnership depth'
+    text: 'Long-term collaboration with IDS AirNav (ENAV Group).'
