@@ -67,3 +67,10 @@ languages:
     contentDir: content/ja
     params:
       description: "インフラ、エネルギー、航空向けのGISエンジニアリング、空間データプラットフォーム、航空システム。"
+  pt:
+    languageName: Português
+    languageCode: pt
+    weight: 8
+    contentDir: content/pt
+    params:
+      description: ""
