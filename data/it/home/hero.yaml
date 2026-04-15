@@ -1,0 +1,34 @@
+enable: true
+
+title: 'La complessità<br/>resa semplice.'
+
+text: 'GIS, sistemi aeronautici e piattaforme di dati spaziali progettati per ambienti di produzione.'
+
+buttons:
+  - label: 'Scopri di più'
+    link: '#features'
+  - label: 'Contatti'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'map-pinned'
+    color: '#1AA6A6'
+    title: 'Ingegneria GIS'
+    text: 'Modelli dati, pipeline e servizi allineati alla geometria del mondo reale.'
+
+  - icon: 'plane-takeoff'
+    color: '#1AA6A6'
+    title: 'Sistemi aeronautici'
+    text: 'Workflow mission-critical con requisiti di interoperabilità stringenti.'
+
+  - icon: 'database'
+    color: '#1AA6A6'
+    title: 'Piattaforme di dati spaziali'
+    text: 'Dall''ingest all''analytics, con governance e performance integrate.'
+
+  - icon: 'handshake'
+    color: '#1AA6A6'
+    title: 'Profondità della partnership'
+    text: 'Collaborazione di lungo periodo con IDS AirNav (Gruppo ENAV).'

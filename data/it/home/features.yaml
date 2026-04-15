@@ -1,0 +1,27 @@
+enable: true
+
+title: 'Ambiti in cui operiamo'
+
+text: 'Reti energetiche, infrastrutture di trasporto, geomarketing e sistemi aeronautici, dove accuratezza spaziale e disciplina operativa si incontrano.'
+
+items:
+  - pretitle: 'GIS'
+    pretext: 'Ingegneria'
+    color: '#1AA6A6'
+    icon: 'drafting-compass'
+    title: 'Dai modelli dati ai servizi cartografici operativi'
+    text: 'Progettiamo e rendiamo robuste architetture spaziali: sistemi di riferimento, regole topologiche, service tier e processi di rilascio che reggono audit e picchi di carico.'
+
+  - pretitle: 'Aviazione'
+    pretext: 'Aeronautica'
+    color: '#1AA6A6'
+    icon: 'radar'
+    title: 'Tooling aeronautico allineato alle procedure reali'
+    text: 'Realizziamo software che rispetta workflow operativi, contratti dati e cultura della sicurezza, soprattutto quando sistemi airspace e ground devono restare sincronizzati.'
+
+  - pretitle: 'Piattaforme'
+    pretext: 'Dati spaziali'
+    color: '#1AA6A6'
+    icon: 'server'
+    title: 'Piattaforme di dati spaziali che scalano'
+    text: 'Pipeline, cataloghi, API e osservabilità per team che hanno bisogno di analytics spaziali affidabili tra business unit e partner.'

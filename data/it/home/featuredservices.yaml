@@ -1,0 +1,22 @@
+enable: true
+
+title: 'Servizi'
+
+subtitle: 'Ingegneria GIS, sistemi aeronautici, web mapping e piattaforme di dati spaziali - progettati per ambienti di produzione.'
+
+cta:
+  label: 'Tutti i servizi'
+  link: 'services/'
+
+items:
+  - title: 'Sistemi aeronautici'
+    text: 'Ingegneria per sistemi aviation, inclusi processamento e visualizzazione di dati aeronautici.'
+    button:
+      label: 'Esplora il servizio'
+      link: 'services/aeronautical-systems/'
+
+  - title: 'Ingegneria GIS'
+    text: 'Soluzioni GIS per energia, infrastrutture, geomarketing e altri domini ad alta intensità di dati.'
+    button:
+      label: 'Esplora il servizio'
+      link: 'services/gis-engineering/'

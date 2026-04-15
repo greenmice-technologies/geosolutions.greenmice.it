@@ -14,7 +14,7 @@ menu:
 ### Contact details
 
 - Company: **Greenmice Geosolutions S.r.l.**
-- Email: [info@geosolutions.greenmice.it](mailto:info@geosolutions.greenmice.it)
+- Email: [geosolutions@greenmice.it](mailto:geosolutions@greenmice.it)
 - Mobile: [+39 328 3615959](tel:+393283615959)
 - Address: Piazzale delle Provincie 8, 00162 Rome, Italy
 - VAT ID: 17505441000

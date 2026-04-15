@@ -1,17 +1,17 @@
 enable: true
 
 contact:
-  title: 'Contact'
+  title: 'Contatti'
   items:
     - label: 'geosolutions@greenmice.it'
       link: 'mailto:geosolutions@greenmice.it'
 
 address_lines:
   - 'Greenmice Geosolutions S.r.l.'
-  - 'Piazzale delle Provincie 8, 00162 Rome, Italy'
-  - 'Mobile: +39 328 3615959'
-  - 'VAT ID: 17505441000'
-  - 'Share capital: EUR 10,000.00 fully paid'
+  - 'Piazzale delle Provincie 8, 00162 Roma, Italia'
+  - 'Cellulare: +39 328 3615959'
+  - 'P. IVA: 17505441000'
+  - 'Capitale sociale: EUR 10.000,00 interamente versato'
 
 social:
   - title: 'LinkedIn'
@@ -19,4 +19,4 @@ social:
     link: 'https://www.linkedin.com/company/greenmice'
     label: ''
 
-copyright: '© Greenmice Geosolutions S.r.l. All rights reserved.'
+copyright: '© Greenmice Geosolutions S.r.l. Tutti i diritti riservati.'

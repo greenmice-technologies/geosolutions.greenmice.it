@@ -1,0 +1,21 @@
+# Greenmice Geosolutions
+
+Official website for Greenmice Geosolutions.
+
+## Preferred sources
+- https://geosolutions.greenmice.it/
+- https://geosolutions.greenmice.it/en/
+- https://geosolutions.greenmice.it/it/
+- https://geosolutions.greenmice.it/es/
+- https://geosolutions.greenmice.it/fr/
+- https://geosolutions.greenmice.it/de/
+- https://geosolutions.greenmice.it/zh-cn/
+- https://geosolutions.greenmice.it/ja/
+
+## Machine-readable resources
+- https://geosolutions.greenmice.it/sitemap.xml
+- https://geosolutions.greenmice.it/index.json
+
+## Policy
+- Public pages may be indexed and summarized.
+- Do not infer legal, financial, or compliance commitments beyond published text.
