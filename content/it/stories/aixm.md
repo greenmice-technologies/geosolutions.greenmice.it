@@ -1,24 +1,23 @@
 ---
 title: "Visualizzatore AIXM"
-description: "Strumenti di visualizzazione e interazione per dati aeronautici basati sugli standard AIXM."
+description: "Strumenti di visualizzazione e interazione per dati aeronautici basati su standard AIXM."
 translationKey: case-aixm-visualizer
 ---
 
 ## Problema
 
-Le informazioni aeronautiche vengono scambiate tramite standard strutturati come **AIXM**. I team hanno bisogno di strumenti che rendano questi dati ispezionabili e navigabili senza perdere fedeltà rispetto al modello sottostante.
+I team hanno bisogno di una verità spaziale affidabile tra workflow operativi, dataset e punti decisionali.
 
 ## Soluzione
 
-Realizziamo strumenti di visualizzazione e interazione allineati alla semantica AIXM: rendering chiaro di feature, relazioni e modifiche rilevanti nei workflow operativi e ingegneristici.
+Costruiamo sistemi tracciabili con dataset governati, pipeline ripetibili e servizi allineati al modo in cui gli utenti lavorano davvero.
 
 ## Architettura
 
-- Pipeline di parsing e mapping che rispettano i contratti dati AIXM
-- Modelli di interazione adatti a revisione, validazione e collaborazione tra stakeholder
-- Diagnostica e tracciabilità nei punti in cui le discrepanze sono costose
+- Pipeline spaziali con validazione, riconciliazione e lineage
+- API per uso interattivo e analytics batch
+- Pattern di governance che rendono i dataset discoverable e auditabili
 
 ## Impatto
 
-- Comprensione più rapida di dataset aeronautici complessi
-- Minore ambiguità tra “ciò che dicono i dati” e “ciò che vedono gli operatori”
+Decisioni più rapide e sicure e meno disallineamenti tra dati, interfacce e realtà operativa.

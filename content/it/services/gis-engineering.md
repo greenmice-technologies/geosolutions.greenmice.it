@@ -1,17 +1,17 @@
 ---
 title: "Ingegneria GIS"
-description: "Sviluppo di soluzioni GIS in diversi domini, tra cui energia, infrastrutture e geomarketing."
+description: "Sviluppo di soluzioni GIS in domini come energia, infrastrutture e geomarketing."
 translationKey: Services-gis
 ---
 
-I programmi GIS falliscono quando le mappe vengono trattate come disegni invece che come **prodotti dati**. Progettiamo sistemi spaziali con regole topologiche esplicite, service tier e processi di rilascio che reggono audit e picchi di utilizzo.
+Sviluppo di soluzioni GIS in domini come energia, infrastrutture e geomarketing.
 
-### Cosa realizziamo
+### Cosa presidiamo
 
-- Modelli di dati spaziali allineati ai workflow operativi, non solo alla cartografia
-- Servizi cartografici con budget di performance e strategie di caching fondate sui pattern d'uso
-- Pipeline ETL e di validazione con tracciabilità per correzioni e lineage
+- Contratti dati e interfacce esplicite
+- Workflow operativi, tracciabilità e disciplina di release
+- Strumentazione per diagnosi e manutenzione del ciclo di vita
 
-### Risultati
+### Outcome
 
-I team possono iterare in sicurezza: i cambiamenti sono testabili, osservabili e reversibili.
+Team e piattaforme possono iterare in sicurezza con sistemi testabili, osservabili e reversibili.

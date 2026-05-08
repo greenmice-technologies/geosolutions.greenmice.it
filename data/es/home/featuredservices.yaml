@@ -1,0 +1,22 @@
+enable: true
+
+title: 'Servicios'
+
+subtitle: 'GIS, sistemas aeronáuticos y plataformas de datos espaciales construidos para producción.'
+
+cta:
+  label: 'Todos los servicios'
+  link: 'services/'
+
+items:
+  - title: 'Sistemas aeronáuticos'
+    text: 'Workflows mission-critical con requisitos estrictos de interoperabilidad.'
+    button:
+      label: 'Explorar servicio'
+      link: 'services/aeronautical-systems/'
+
+  - title: 'Ingeniería GIS'
+    text: 'Modelos de datos, pipelines y servicios alineados con geometría real.'
+    button:
+      label: 'Explorar servicio'
+      link: 'services/gis-engineering/'

@@ -1,0 +1,34 @@
+enable: true
+
+title: 'Complexidade<br/>tornada simples.'
+
+text: 'GIS, sistemas aeronáuticos e plataformas de dados espaciais criados para produção.'
+
+buttons:
+  - label: 'Saber mais'
+    link: '#features'
+  - label: 'Contacto'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'map-pinned'
+    color: '#1AA6A6'
+    title: 'Engenharia GIS'
+    text: 'Modelos de dados, pipelines e serviços alinhados com geometria real.'
+
+  - icon: 'plane-takeoff'
+    color: '#1AA6A6'
+    title: 'Sistemas aeronáuticos'
+    text: 'Workflows mission-critical com requisitos rigorosos de interoperabilidade.'
+
+  - icon: 'database'
+    color: '#1AA6A6'
+    title: 'Plataformas de dados espaciais'
+    text: 'Do ingest aos analytics, com governance e performance integradas.'
+
+  - icon: 'handshake'
+    color: '#1AA6A6'
+    title: 'Profundidade de delivery'
+    text: 'Experiência de delivery de longo prazo em ambientes espaciais e aeronáuticos regulados.'

@@ -1,0 +1,20 @@
+enable: true
+
+title: '事例'
+
+subtitle: 'エネルギーネットワーク、交通インフラ、geomarketing intelligence、aviation systems。空間精度と運用規律が交差する領域です。'
+
+cta:
+  label: 'すべての事例'
+  link: 'stories/'
+
+items:
+  - tag: 'Aviation'
+    title: 'AIXM visualizer'
+    summary: '厳格な相互運用性要件を持つ mission-critical workflow。'
+    link: 'stories/aixm/'
+
+  - tag: 'Platforms'
+    title: 'Gaia GIS platform'
+    summary: 'ingestion から analytics まで、governance と performance を組み込みます。'
+    link: 'stories/gaia-gis-platform/'

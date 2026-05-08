@@ -1,0 +1,22 @@
+enable: true
+
+title: 'サービス'
+
+subtitle: '本番環境向けに構築された GIS、航空システム、空間データプラットフォーム。'
+
+cta:
+  label: 'すべてのサービス'
+  link: 'services/'
+
+items:
+  - title: '航空システム'
+    text: '厳格な相互運用性要件を持つ mission-critical workflow。'
+    button:
+      label: 'サービスを見る'
+      link: 'services/aeronautical-systems/'
+
+  - title: 'GIS エンジニアリング'
+    text: '現実の geometry に整合したデータモデル、pipeline、サービス。'
+    button:
+      label: 'サービスを見る'
+      link: 'services/gis-engineering/'

@@ -1,0 +1,27 @@
+enable: true
+
+title: '服务领域'
+
+text: '能源网络、交通基础设施、geomarketing intelligence 和航空系统，在这些领域空间精度与运营纪律相结合。'
+
+items:
+  - pretitle: 'GIS'
+    pretext: 'Engineering'
+    color: '#1AA6A6'
+    icon: 'drafting-compass'
+    title: 'GIS 工程'
+    text: '与真实几何一致的数据模型、流水线和服务。'
+
+  - pretitle: 'Aviation'
+    pretext: 'Aeronautical'
+    color: '#1AA6A6'
+    icon: 'radar'
+    title: '航空系统'
+    text: '具备严格互操作要求的 mission-critical 工作流。'
+
+  - pretitle: 'Platforms'
+    pretext: 'Spatial data'
+    color: '#1AA6A6'
+    icon: 'server'
+    title: '空间数据平台'
+    text: '从 ingest 到 analytics，内建治理和性能。'

@@ -1,0 +1,27 @@
+enable: true
+
+title: 'Dominios que servimos'
+
+text: 'Redes energéticas, infraestructura de transporte, inteligencia geomarketing y sistemas de aviación donde se encuentran precisión espacial y disciplina operativa.'
+
+items:
+  - pretitle: 'GIS'
+    pretext: 'Engineering'
+    color: '#1AA6A6'
+    icon: 'drafting-compass'
+    title: 'Ingeniería GIS'
+    text: 'Modelos de datos, pipelines y servicios alineados con geometría real.'
+
+  - pretitle: 'Aviation'
+    pretext: 'Aeronautical'
+    color: '#1AA6A6'
+    icon: 'radar'
+    title: 'Sistemas aeronáuticos'
+    text: 'Workflows mission-critical con requisitos estrictos de interoperabilidad.'
+
+  - pretitle: 'Platforms'
+    pretext: 'Spatial data'
+    color: '#1AA6A6'
+    icon: 'server'
+    title: 'Plataformas de datos espaciales'
+    text: 'Desde ingest hasta analytics, con gobernanza y rendimiento integrados.'

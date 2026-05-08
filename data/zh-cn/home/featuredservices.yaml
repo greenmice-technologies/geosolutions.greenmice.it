@@ -1,0 +1,22 @@
+enable: true
+
+title: '服务'
+
+subtitle: '面向生产环境构建的 GIS、航空系统和空间数据平台。'
+
+cta:
+  label: '全部服务'
+  link: 'services/'
+
+items:
+  - title: '航空系统'
+    text: '具备严格互操作要求的 mission-critical 工作流。'
+    button:
+      label: '查看服务'
+      link: 'services/aeronautical-systems/'
+
+  - title: 'GIS 工程'
+    text: '与真实几何一致的数据模型、流水线和服务。'
+    button:
+      label: '查看服务'
+      link: 'services/gis-engineering/'

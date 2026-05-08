@@ -6,18 +6,18 @@ translationKey: case-gaia-gis-platform
 
 ## Problema
 
-Molti workflow GIS richiedono un'esplorazione rapida dei dataset spaziali senza dover predisporre infrastruttura server, soprattutto per demo, validazione sul campo o ambienti con vincoli forti.
+I team hanno bisogno di una verità spaziale affidabile tra workflow operativi, dataset e punti decisionali.
 
 ## Soluzione
 
-**Gaia** è una piattaforma GIS browser-based focalizzata sull'interrogazione e visualizzazione di dati geospaziali **senza dipendenze backend** per i workflow principali, ma abbastanza strutturata da gestire dataset reali.
+Costruiamo sistemi tracciabili con dataset governati, pipeline ripetibili e servizi allineati al modo in cui gli utenti lavorano davvero.
 
 ## Architettura
 
-- Percorsi di elaborazione client-side per visualizzazione e filtro interattivi
-- Pattern che mantengono esplicite e debuggabili nel browser le operazioni spaziali
-- Hook di integrazione per i casi in cui le organizzazioni collegano in seguito servizi autorevoli
+- Pipeline spaziali con validazione, riconciliazione e lineage
+- API per uso interattivo e analytics batch
+- Pattern di governance che rendono i dataset discoverable e auditabili
 
 ## Impatto
 
-Tempo più rapido per arrivare all'insight sui dati spaziali, minore frizione nei pilot e un percorso verso servizi production-grade quando i requisiti maturano.
+Decisioni più rapide e sicure e meno disallineamenti tra dati, interfacce e realtà operativa.

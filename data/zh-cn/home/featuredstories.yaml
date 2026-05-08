@@ -1,0 +1,20 @@
+enable: true
+
+title: '案例'
+
+subtitle: '能源网络、交通基础设施、geomarketing intelligence 和航空系统，在这些领域空间精度与运营纪律相结合。'
+
+cta:
+  label: '全部案例'
+  link: 'stories/'
+
+items:
+  - tag: 'Aviation'
+    title: 'AIXM visualizer'
+    summary: '具备严格互操作要求的 mission-critical 工作流。'
+    link: 'stories/aixm/'
+
+  - tag: 'Platforms'
+    title: 'Gaia GIS platform'
+    summary: '从 ingest 到 analytics，内建治理和性能。'
+    link: 'stories/gaia-gis-platform/'

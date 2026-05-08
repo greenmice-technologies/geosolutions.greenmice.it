@@ -1,0 +1,27 @@
+enable: true
+
+title: 'Domaines servis'
+
+text: 'Réseaux énergétiques, infrastructures de transport, intelligence géomarketing et systèmes aviation, là où précision spatiale et discipline opérationnelle se rencontrent.'
+
+items:
+  - pretitle: 'GIS'
+    pretext: 'Engineering'
+    color: '#1AA6A6'
+    icon: 'drafting-compass'
+    title: 'Ingénierie GIS'
+    text: 'Modèles de données, pipelines et services alignés sur la géométrie réelle.'
+
+  - pretitle: 'Aviation'
+    pretext: 'Aeronautical'
+    color: '#1AA6A6'
+    icon: 'radar'
+    title: 'Systèmes aéronautiques'
+    text: 'Workflows mission-critical avec exigences strictes d’interopérabilité.'
+
+  - pretitle: 'Platforms'
+    pretext: 'Spatial data'
+    color: '#1AA6A6'
+    icon: 'server'
+    title: 'Plateformes de données spatiales'
+    text: 'De l’ingest aux analytics, avec gouvernance et performance intégrées.'

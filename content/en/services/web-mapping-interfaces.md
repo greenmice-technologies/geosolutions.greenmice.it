@@ -14,4 +14,4 @@ Web mapping is where spatial data becomes operational: users need fast rendering
 
 ### Outcomes
 
-Teams get interfaces that remain usable under production load—not prototypes that collapse when datasets or user counts scale up.
+Teams get interfaces that remain usable under production load as datasets, workflows, and user counts scale.

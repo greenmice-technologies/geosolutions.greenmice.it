@@ -1,0 +1,20 @@
+enable: true
+
+title: 'Casos'
+
+subtitle: 'Redes de energia, infra-estrutura de transporte, geomarketing intelligence e sistemas aviation, onde precisão espacial e disciplina operacional se encontram.'
+
+cta:
+  label: 'Todos os casos'
+  link: 'stories/'
+
+items:
+  - tag: 'Aviation'
+    title: 'AIXM visualizer'
+    summary: 'Workflows mission-critical com requisitos rigorosos de interoperabilidade.'
+    link: 'stories/aixm/'
+
+  - tag: 'Platforms'
+    title: 'Gaia GIS platform'
+    summary: 'Do ingest aos analytics, com governance e performance integradas.'
+    link: 'stories/gaia-gis-platform/'

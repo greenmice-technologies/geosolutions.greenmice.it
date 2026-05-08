@@ -1,0 +1,34 @@
+enable: true
+
+title: 'Komplexität<br/>einfach gemacht.'
+
+text: 'GIS, aeronautische Systeme und räumliche Datenplattformen für Produktionsumgebungen.'
+
+buttons:
+  - label: 'Mehr erfahren'
+    link: '#features'
+  - label: 'Kontakt'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'map-pinned'
+    color: '#1AA6A6'
+    title: 'GIS-Engineering'
+    text: 'Datenmodelle, Pipelines und Services ausgerichtet an realer Geometrie.'
+
+  - icon: 'plane-takeoff'
+    color: '#1AA6A6'
+    title: 'Aeronautische Systeme'
+    text: 'Mission-critical Workflows mit strengen Interoperabilitätsanforderungen.'
+
+  - icon: 'database'
+    color: '#1AA6A6'
+    title: 'Räumliche Datenplattformen'
+    text: 'Von Ingestion bis Analytics, mit Governance und Performance integriert.'
+
+  - icon: 'handshake'
+    color: '#1AA6A6'
+    title: 'Delivery-Tiefe'
+    text: 'Langjährige Delivery-Erfahrung in regulierten räumlichen und aeronautischen Umgebungen.'

@@ -1,6 +1,6 @@
 ---
 title: "Contatti"
-description: "Parliamo di piattaforme GIS, sistemi spaziali o progetti di ingegneria dei dati aeronautici."
+description: "Discuti progetti GIS, sistemi spaziali o data engineering aeronautico."
 translationKey: contact
 menu:
   main:
@@ -11,27 +11,27 @@ menu:
     weight: 70
 ---
 
-### Recapiti
+### Dettagli di contatto
 
-- Azienda: **Greenmice Geosolutions S.r.l.**
-- Email: [info@geosolutions.greenmice.it](mailto:info@geosolutions.greenmice.it)
-- Cellulare: [+39 328 3615959](tel:+393283615959)
-- Indirizzo: Piazzale delle Provincie 8, 00162 Roma, Italia
-- P. IVA: 17505441000
-- Capitale sociale: EUR 10.000,00 interamente versato
+- Company: **Greenmice Geosolutions S.r.l.**
+- Email: [geosolutions@greenmice.it](mailto:geosolutions@greenmice.it)
+- Mobile: [+39 328 3615959](tel:+393283615959)
+- Address: Piazzale delle Provincie 8, 00162 Rome, Italy
+- VAT ID: 17505441000
+- Share capital: EUR 10,000.00 fully paid
 
-Indica il tuo dominio, per esempio energia, infrastrutture, aviazione o geomarketing, i vincoli che puoi condividere e se potrebbe servirti anche ingegneria enterprise core da **Greenmice Technologies**.
+Includi il dominio, energia, infrastrutture, aviation o geomarketing, i vincoli che puoi condividere e se potresti avere bisogno anche di engineering enterprise core da **Greenmice Technologies**.
 
 ### Coordinamento
 
-Se la tua iniziativa coinvolge sistemi spaziali e una delivery software più ampia, proponiamo un approccio congiunto e responsabilità chiare, così non paghi l'ambiguità.
+Se l’iniziativa unisce sistemi spaziali e delivery software più ampia, proponiamo un approccio con responsabilità chiare, così non paghi ambiguità.
 
 ### Mappa ufficio
 
 <div class="gm-office-map" style="border:1px solid #d9e2ea;border-radius:12px;overflow:hidden;max-width:100%;">
   <iframe
     title="Mappa ufficio Greenmice Geosolutions"
-    src="https://maps.google.com/maps?q=Piazzale%20delle%20Provincie%208%2C%20Roma%2C%20Italia&t=&z=16&ie=UTF8&iwloc=&output=embed"
+    src="https://maps.google.com/maps?q=Piazzale%20delle%20Provincie%208%2C%20Rome%2C%20Italy&t=&z=16&ie=UTF8&iwloc=&output=embed"
     width="100%"
     height="360"
     style="border:0;"

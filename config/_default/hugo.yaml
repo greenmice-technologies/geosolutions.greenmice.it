@@ -73,4 +73,4 @@ languages:
     weight: 8
     contentDir: content/pt
     params:
-      description: ""
+      description: "Engenharia GIS, plataformas de dados espaciais e sistemas aeronáuticos para infra-estrutura, energia e aviação."

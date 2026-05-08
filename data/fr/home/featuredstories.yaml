@@ -1,0 +1,20 @@
+enable: true
+
+title: 'Réalisations'
+
+subtitle: 'Réseaux énergétiques, infrastructures de transport, intelligence géomarketing et systèmes aviation, là où précision spatiale et discipline opérationnelle se rencontrent.'
+
+cta:
+  label: 'Toutes les réalisations'
+  link: 'stories/'
+
+items:
+  - tag: 'Aviation'
+    title: 'AIXM visualizer'
+    summary: 'Workflows mission-critical avec exigences strictes d’interopérabilité.'
+    link: 'stories/aixm/'
+
+  - tag: 'Platforms'
+    title: 'Gaia GIS platform'
+    summary: 'De l’ingest aux analytics, avec gouvernance et performance intégrées.'
+    link: 'stories/gaia-gis-platform/'

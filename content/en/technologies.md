@@ -15,7 +15,7 @@ Greenmice operates two engineering companies with clear boundaries:
 
 ### Greenmice Geosolutions (this site)
 
-Focused on **GIS engineering**, **spatial data platforms**, and **aeronautical systems**—including long-running collaboration with **IDS AirNav** in the **ENAV** ecosystem.
+Focused on **GIS engineering**, **spatial data platforms**, and **aeronautical systems** for regulated, data-intensive environments.
 
 ### Greenmice Technologies
 
@@ -25,4 +25,4 @@ Focused on **AI systems**, **enterprise software engineering**, **legacy moderni
 
 ### When projects span both
 
-Many roadmaps need spatial systems *and* core enterprise platforms. In those cases we coordinate delivery across both companies: shared engineering culture, separate ownership lines, and explicit interfaces—so accountability stays clear.
+Many roadmaps need spatial systems *and* core enterprise platforms. In those cases we coordinate delivery across both companies: shared engineering culture, separate ownership lines, and explicit interfaces so accountability stays clear.

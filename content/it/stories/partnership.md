@@ -6,18 +6,18 @@ translationKey: case-infrastructure-spatial
 
 ## Problema
 
-I portafogli infrastrutturali coprono geografie estese e molte classi di asset. Monitoraggio e pianificazione dipendono dalla riconciliazione della verità spaziale tra rilievi, sistemi operativi e analytics, spesso con dataset longevi e forti aspettative di audit.
+I team hanno bisogno di una verità spaziale affidabile tra workflow operativi, dataset e punti decisionali.
 
 ## Soluzione
 
-Sviluppiamo sistemi spaziali che supportano **monitoraggio e pianificazione infrastrutturale** tramite workflow tracciabili: dataset governati, pipeline ripetibili e servizi allineati al modo in cui owner e operatori prendono davvero decisioni.
+Costruiamo sistemi tracciabili con dataset governati, pipeline ripetibili e servizi allineati al modo in cui gli utenti lavorano davvero.
 
 ## Architettura
 
-- Pipeline spaziali con validazione, riconciliazione e lineage adatti a correzioni nel tempo
-- API che servono sia viste interattive di pianificazione sia analytics batch
-- Pattern di governance che rendono i dataset rintracciabili e auditabili tra team diversi
+- Pipeline spaziali con validazione, riconciliazione e lineage
+- API per uso interattivo e analytics batch
+- Pattern di governance che rendono i dataset discoverable e auditabili
 
 ## Impatto
 
-Decisioni operative più affidabili, con meno discrepanze tra realtà di campo, modelli ingegneristici e reporting executive.
+Decisioni più rapide e sicure e meno disallineamenti tra dati, interfacce e realtà operativa.

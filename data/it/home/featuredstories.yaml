@@ -2,19 +2,19 @@ enable: true
 
 title: 'Storie'
 
-subtitle: 'Progetti selezionati tra piattaforme GIS, sistemi aeronautici e prodotti basati su dati spaziali.'
+subtitle: 'Reti energetiche, infrastrutture di trasporto, geomarketing intelligence e sistemi aviation, dove accuratezza spaziale e disciplina operativa si incontrano.'
 
 cta:
   label: 'Tutte le storie'
   link: 'stories/'
 
 items:
-  - tag: 'Aviazione'
-    title: 'Visualizzatore AIXM'
-    summary: 'Strumenti di visualizzazione e interazione per dati aeronautici basati sugli standard AIXM.'
+  - tag: 'Aviation'
+    title: 'AIXM visualizer'
+    summary: 'Workflow mission-critical con requisiti di interoperabilità rigorosi.'
     link: 'stories/aixm/'
 
-  - tag: 'Piattaforme'
-    title: 'Piattaforma GIS Gaia'
-    summary: 'Piattaforma GIS browser-based per interrogare e visualizzare dati geospaziali senza dipendenze backend.'
+  - tag: 'Platforms'
+    title: 'Gaia GIS platform'
+    summary: 'Dall’ingest agli analytics, con governance e performance integrate.'
     link: 'stories/gaia-gis-platform/'

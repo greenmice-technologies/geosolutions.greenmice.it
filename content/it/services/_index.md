@@ -1,6 +1,6 @@
 ---
 title: "Servizi"
-description: "Ingegneria GIS, sistemi aeronautici, web mapping e piattaforme di dati spaziali - progettati per ambienti di produzione."
+description: "Ingegneria GIS, sistemi aeronautici, web mapping e piattaforme dati spaziali, progettati per ambienti di produzione."
 translationKey: services
 menu:
   main:
@@ -11,4 +11,4 @@ menu:
     weight: 40
 ---
 
-Scegli un'area di servizio per vedere come strutturiamo il lavoro ingegneristico, quali vincoli di integrazione incontriamo più spesso e quali risultati ottimizziamo.
+Scegli un’area di servizio per vedere come strutturiamo il lavoro ingegneristico, i vincoli di integrazione tipici e gli outcome che ottimizziamo.

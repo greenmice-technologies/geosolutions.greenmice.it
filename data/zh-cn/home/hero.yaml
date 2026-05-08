@@ -1,0 +1,34 @@
+enable: true
+
+title: '让复杂<br/>变简单。'
+
+text: '面向生产环境构建的 GIS、航空系统和空间数据平台。'
+
+buttons:
+  - label: '了解更多'
+    link: '#features'
+  - label: '联系'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'map-pinned'
+    color: '#1AA6A6'
+    title: 'GIS 工程'
+    text: '与真实几何一致的数据模型、流水线和服务。'
+
+  - icon: 'plane-takeoff'
+    color: '#1AA6A6'
+    title: '航空系统'
+    text: '具备严格互操作要求的 mission-critical 工作流。'
+
+  - icon: 'database'
+    color: '#1AA6A6'
+    title: '空间数据平台'
+    text: '从 ingest 到 analytics，内建治理和性能。'
+
+  - icon: 'handshake'
+    color: '#1AA6A6'
+    title: '交付深度'
+    text: '在受监管空间与航空环境中的长期交付经验。'

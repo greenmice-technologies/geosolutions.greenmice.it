@@ -1,23 +1,23 @@
 ---
 title: "Spatial intelligence per reti energetiche"
-description: "Piattaforme di dati spaziali per l'analisi e l'ottimizzazione delle reti energetiche."
+description: "Piattaforme dati spaziali per analisi e ottimizzazione di reti energetiche."
 translationKey: case-energy
 ---
 
 ## Problema
 
-Gli operatori energetici gestiscono asset ampi e geograficamente distribuiti. Le decisioni dipendono dalla riconciliazione della verità spaziale tra rilievi, sistemi operativi e analytics, spesso sotto finestre operative molto strette.
+I team hanno bisogno di una verità spaziale affidabile tra workflow operativi, dataset e punti decisionali.
 
 ## Soluzione
 
-Costruiamo fondamenta di spatial intelligence di cui i team possano fidarsi: geometria coerente, dataset governati e servizi allineati ai workflow operativi, non dashboard una tantum.
+Costruiamo sistemi tracciabili con dataset governati, pipeline ripetibili e servizi allineati al modo in cui gli utenti lavorano davvero.
 
 ## Architettura
 
-- Pipeline spaziali con passaggi di validazione e riconciliazione
-- API che supportano sia operazioni interattive sia analytics batch
-- Pattern di governance che rendono i dataset rintracciabili e auditabili
+- Pipeline spaziali con validazione, riconciliazione e lineage
+- API per uso interattivo e analytics batch
+- Pattern di governance che rendono i dataset discoverable e auditabili
 
 ## Impatto
 
-Decisioni operative più rapide e più sicure, con meno discrepanze tra “mappa” e “realtà” nei diversi dipartimenti.
+Decisioni più rapide e sicure e meno disallineamenti tra dati, interfacce e realtà operativa.
