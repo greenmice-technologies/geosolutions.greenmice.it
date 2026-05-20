@@ -74,3 +74,7 @@ languages:
     contentDir: content/pt
     params:
       description: "Engenharia GIS, plataformas de dados espaciais e sistemas aeronáuticos para infra-estrutura, energia e aviação."
+
+services:
+  googleAnalytics:
+    id: G-F7L6GPCHZT
